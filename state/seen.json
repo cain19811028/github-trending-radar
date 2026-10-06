@@ -8,6 +8,20 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "DuarteSantos8/openGym": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "streak": 1
+   },
+   "M-Abozaid/esp32-c3-adblock": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "streak": 1
+   },
    "OpenCut-app/OpenCut": {
     "best_rank": 14,
     "days": 1,
@@ -17,9 +31,16 @@
    },
    "Panniantong/Agent-Reach": {
     "best_rank": 6,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
+    "streak": 2
+   },
+   "Stremio/stremio-web": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "streak": 1
    },
    "addyosmani/agent-skills": {
@@ -36,18 +57,32 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
-   "caddyserver/caddy": {
-    "best_rank": 10,
+   "boykopovar/AnyPS5": {
+    "best_rank": 5,
     "days": 1,
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "streak": 1
    },
-   "calesthio/OpenMontage": {
+   "caddyserver/caddy": {
     "best_rank": 8,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
+    "streak": 2
+   },
+   "calesthio/OpenMontage": {
+    "best_rank": 7,
+    "days": 2,
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
+    "streak": 2
+   },
+   "cloudflare/cloudflare-os": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "streak": 1
    },
    "coreyhaines31/marketingskills": {
@@ -58,11 +93,11 @@
     "streak": 1
    },
    "earthtojake/text-to-cad": {
-    "best_rank": 5,
-    "days": 1,
+    "best_rank": 3,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "streak": 1
+    "last_seen": "2026-10-06",
+    "streak": 2
    },
    "garrytan/gstack": {
     "best_rank": 13,
@@ -85,6 +120,13 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "msitarzewski/agency-agents": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "streak": 1
+   },
    "pbakaus/impeccable": {
     "best_rank": 2,
     "days": 1,
@@ -93,25 +135,25 @@
     "streak": 1
    },
    "pingdotgg/t3code": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "streak": 1
+    "last_seen": "2026-10-06",
+    "streak": 2
    },
    "tester-army/e2e": {
     "best_rank": 1,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "streak": 1
+    "last_seen": "2026-10-06",
+    "streak": 2
    },
    "thedotmack/claude-mem": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "streak": 1
+    "last_seen": "2026-10-06",
+    "streak": 2
    }
   },
   "go": {
