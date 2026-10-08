@@ -10,10 +10,17 @@
    },
    "DuarteSantos8/openGym": {
     "best_rank": 9,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07",
-    "streak": 2
+    "last_seen": "2026-10-08",
+    "streak": 3
+   },
+   "EpicGames/raddebugger": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "streak": 1
    },
    "M-Abozaid/esp32-c3-adblock": {
     "best_rank": 13,
@@ -44,10 +51,10 @@
     "streak": 1
    },
    "addyosmani/agent-skills": {
-    "best_rank": 11,
-    "days": 1,
+    "best_rank": 6,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-08",
     "streak": 1
    },
    "antirez/ds4": {
@@ -58,18 +65,18 @@
     "streak": 1
    },
    "ayghri/i-have-adhd": {
-    "best_rank": 7,
-    "days": 1,
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "streak": 1
-   },
-   "boykopovar/AnyPS5": {
     "best_rank": 4,
     "days": 2,
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "streak": 2
+   },
+   "boykopovar/AnyPS5": {
+    "best_rank": 3,
+    "days": 3,
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
+    "streak": 3
    },
    "caddyserver/caddy": {
     "best_rank": 8,
@@ -86,17 +93,24 @@
     "streak": 2
    },
    "cathrynlavery/diagram-design": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 5,
+    "days": 2,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "streak": 1
+    "last_seen": "2026-10-08",
+    "streak": 2
    },
    "cloudflare/cloudflare-os": {
     "best_rank": 10,
     "days": 1,
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
+    "streak": 1
+   },
+   "cloudflare/security-audit-skill": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
     "streak": 1
    },
    "coreyhaines31/marketingskills": {
@@ -134,12 +148,19 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "manaflow-ai/cmux": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "streak": 1
+   },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "streak": 1
+    "last_seen": "2026-10-08",
+    "streak": 2
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -149,11 +170,11 @@
     "streak": 1
    },
    "morluto/rea": {
-    "best_rank": 8,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "streak": 1
+    "last_seen": "2026-10-08",
+    "streak": 2
    },
    "msitarzewski/agency-agents": {
     "best_rank": 10,
@@ -178,17 +199,24 @@
    },
    "tester-army/e2e": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-07",
-    "streak": 3
+    "last_seen": "2026-10-08",
+    "streak": 4
    },
    "thedotmack/claude-mem": {
     "best_rank": 2,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-07",
-    "streak": 3
+    "last_seen": "2026-10-08",
+    "streak": 4
+   },
+   "trycua/cua": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "streak": 1
    }
   },
   "go": {
