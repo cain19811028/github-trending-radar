@@ -1,0 +1,215 @@
+{
+ "date": "2026-10-10",
+ "fetched_at": "2026-10-10T08:00:33+08:00",
+ "boards": {
+  "all": [
+   {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 45362,
+    "forks": 7194,
+    "stars_today": 14927,
+    "created_at": "2026-04-14T00:51:32Z",
+    "topics": [
+     "ai-agents",
+     "binary-analysis",
+     "cli",
+     "decompiler",
+     "disassembler",
+     "mcp",
+     "model-context-protocol",
+     "reverse-engineering",
+     "static-analysis",
+     "agent-skills",
+     "dsh-plugin",
+     "cordis",
+     "dsh",
+     "hopper",
+     "ghidra",
+     "ctf",
+     "claude-code",
+     "codex",
+     "developer-tools",
+     "llm"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 2,
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 22216,
+    "forks": 1812,
+    "stars_today": 5868,
+    "created_at": "2026-08-03T21:30:25Z",
+    "topics": [
+     "dynamic-library",
+     "game-porting",
+     "ps5-tools",
+     "vulkan",
+     "spir-v",
+     "anyps5",
+     "ps5"
+    ],
+    "is_ai": false
+   },
+   {
+    "rank": 3,
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 282647,
+    "forks": 23679,
+    "stars_today": 1687,
+    "created_at": "2026-02-03T11:15:53Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 4,
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 47837,
+    "forks": 3033,
+    "stars_today": 1739,
+    "created_at": "2026-04-16T18:01:16Z",
+    "topics": [
+     "agent-skills",
+     "claude-code",
+     "codex",
+     "data-visualization",
+     "diagrams",
+     "drawio",
+     "mermaid",
+     "svg"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 5,
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars": 45182,
+    "forks": 3260,
+    "stars_today": 326,
+    "created_at": "2026-05-18T02:16:36Z",
+    "topics": [
+     "agent",
+     "code-review",
+     "code-review-assistant",
+     "harness",
+     "repository-level-context",
+     "agent-skills"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 6,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 28237,
+    "forks": 3244,
+    "stars_today": 709,
+    "created_at": "2026-01-23T20:11:54Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 7,
+    "name": "BerriAI/litellm",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "language": "Python",
+    "stars": 60649,
+    "forks": 12186,
+    "stars_today": 95,
+    "created_at": "2023-07-27T00:09:52Z",
+    "topics": [
+     "anthropic",
+     "langchain",
+     "llm",
+     "llmops",
+     "openai",
+     "ai-gateway",
+     "azure-openai",
+     "bedrock",
+     "gateway",
+     "openai-proxy",
+     "vertex-ai",
+     "llm-gateway",
+     "litellm",
+     "mcp-gateway",
+     "rust",
+     "rust-ai"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 8,
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 103971,
+    "forks": 10868,
+    "stars_today": 436,
+    "created_at": "2026-02-15T20:20:26Z",
+    "topics": [
+     "agent-skills",
+     "antigravity",
+     "claude-code",
+     "cursor",
+     "skills",
+     "codex"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 9,
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 11403,
+    "forks": 1726,
+    "stars_today": 3752,
+    "created_at": "2022-03-31T23:19:12Z",
+    "topics": [
+     "3d-graphics",
+     "ai",
+     "aivideo",
+     "filmmaking",
+     "imagegeneration"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 10,
+    "name": "Robbyant/lingbot-map",
+    "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+    "language": "Python",
+    "stars": 17686,
+    "forks": 1950,
+    "stars_today": 110,
+    "created_at": "2026-04-15T17:59:48Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 11,
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "language": "",
+    "stars": 5412,
+    "forks": 196,
+    "stars_today": 65,
+    "created_at": "2026-03-05T20:13:14Z",
+    "topics": [],
+    "is_ai": true
+   }
+  ]
+ }
+}

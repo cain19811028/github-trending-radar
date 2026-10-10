@@ -1,6 +1,13 @@
 {
  "boards": {
   "all": {
+   "BerriAI/litellm": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "streak": 1
+   },
    "DietrichGebert/ponytail": {
     "best_rank": 4,
     "days": 1,
@@ -43,6 +50,13 @@
     "last_seen": "2026-10-06",
     "streak": 2
    },
+   "Robbyant/lingbot-map": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "streak": 1
+   },
    "Stremio/stremio-web": {
     "best_rank": 11,
     "days": 1,
@@ -52,17 +66,24 @@
    },
    "addyosmani/agent-skills": {
     "best_rank": 6,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-10",
+    "streak": 1
+   },
+   "alibaba/open-code-review": {
+    "best_rank": 5,
+    "days": 1,
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
     "streak": 1
    },
    "anthropics/knowledge-work-plugins": {
-    "best_rank": 7,
-    "days": 1,
+    "best_rank": 6,
+    "days": 2,
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "streak": 1
+    "last_seen": "2026-10-10",
+    "streak": 2
    },
    "antirez/ds4": {
     "best_rank": 15,
@@ -80,10 +101,10 @@
    },
    "boykopovar/AnyPS5": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-09",
-    "streak": 4
+    "last_seen": "2026-10-10",
+    "streak": 5
    },
    "caddyserver/caddy": {
     "best_rank": 8,
@@ -101,10 +122,10 @@
    },
    "cathrynlavery/diagram-design": {
     "best_rank": 2,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09",
-    "streak": 3
+    "last_seen": "2026-10-10",
+    "streak": 4
    },
    "cloudflare/cloudflare-os": {
     "best_rank": 10,
@@ -171,10 +192,10 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09",
-    "streak": 3
+    "last_seen": "2026-10-10",
+    "streak": 4
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -185,10 +206,10 @@
    },
    "morluto/rea": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09",
-    "streak": 3
+    "last_seen": "2026-10-10",
+    "streak": 4
    },
    "msitarzewski/agency-agents": {
     "best_rank": 10,
@@ -213,10 +234,10 @@
    },
    "storytold/artcraft": {
     "best_rank": 8,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "streak": 1
+    "last_seen": "2026-10-10",
+    "streak": 2
    },
    "tester-army/e2e": {
     "best_rank": 1,
@@ -237,6 +258,13 @@
     "days": 1,
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
+    "streak": 1
+   },
+   "twostraws/SwiftUI-Agent-Skill": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
     "streak": 1
    }
   },
