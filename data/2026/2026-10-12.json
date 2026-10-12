@@ -1,0 +1,189 @@
+{
+ "date": "2026-10-12",
+ "fetched_at": "2026-10-12T08:00:34+08:00",
+ "boards": {
+  "all": [
+   {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 103360,
+    "forks": 22665,
+    "stars_today": 25599,
+    "created_at": "2026-04-14T00:51:32Z",
+    "topics": [
+     "ai-agents",
+     "binary-analysis",
+     "cli",
+     "decompiler",
+     "disassembler",
+     "mcp",
+     "model-context-protocol",
+     "reverse-engineering",
+     "static-analysis",
+     "agent-skills",
+     "dsh-plugin",
+     "cordis",
+     "dsh",
+     "hopper",
+     "ghidra",
+     "ctf",
+     "claude-code",
+     "codex",
+     "developer-tools",
+     "llm"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 2,
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 30046,
+    "forks": 2581,
+    "stars_today": 3952,
+    "created_at": "2026-08-03T21:30:25Z",
+    "topics": [
+     "dynamic-library",
+     "game-porting",
+     "ps5-tools",
+     "vulkan",
+     "spir-v",
+     "anyps5",
+     "ps5"
+    ],
+    "is_ai": false
+   },
+   {
+    "rank": 3,
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 17809,
+    "forks": 2916,
+    "stars_today": 2957,
+    "created_at": "2022-03-31T23:19:12Z",
+    "topics": [
+     "3d-graphics",
+     "ai",
+     "aivideo",
+     "filmmaking",
+     "imagegeneration"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 4,
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 50301,
+    "forks": 3197,
+    "stars_today": 1083,
+    "created_at": "2026-04-16T18:01:16Z",
+    "topics": [
+     "agent-skills",
+     "claude-code",
+     "codex",
+     "data-visualization",
+     "diagrams",
+     "drawio",
+     "mermaid",
+     "svg"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 5,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 51633,
+    "forks": 10371,
+    "stars_today": 886,
+    "created_at": "2026-06-22T23:37:22Z",
+    "topics": [
+     "3d-globe",
+     "cesium",
+     "flight-tracking",
+     "geospatial",
+     "geospatial-intelligence",
+     "gis",
+     "osint",
+     "photogrammetry",
+     "satellite-tracking",
+     "spatial-intelligence",
+     "webgl",
+     "worldview"
+    ],
+    "is_ai": false
+   },
+   {
+    "rank": 6,
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "stars": 104473,
+    "forks": 32112,
+    "stars_today": 315,
+    "created_at": "2016-08-13T05:26:41Z",
+    "topics": [
+     "neural-network",
+     "autograd",
+     "gpu",
+     "numpy",
+     "deep-learning",
+     "tensor",
+     "python",
+     "machine-learning"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 7,
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "stars": 36461,
+    "forks": 3817,
+    "stars_today": 548,
+    "created_at": "2023-06-12T16:28:41Z",
+    "topics": [
+     "chinese-nlp",
+     "finetune",
+     "generative-ai",
+     "instruct-gpt",
+     "instruction-set",
+     "llama",
+     "llm",
+     "lora",
+     "open-models",
+     "open-source",
+     "open-source-models",
+     "qlora",
+     "chinese-llm"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 8,
+    "name": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "stars": 74233,
+    "forks": 8099,
+    "stars_today": 466,
+    "created_at": "2014-04-03T15:45:02Z",
+    "topics": [
+     "agc",
+     "nasa",
+     "apollo",
+     "hacktoberfest"
+    ],
+    "is_ai": false
+   }
+  ]
+ }
+}
