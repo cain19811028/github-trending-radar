@@ -1,47 +1,46 @@
-# 🔭 GitHub Trending Radar — 2026-10-12
+# 🔭 GitHub Trending Radar — 2026-10-13
 
-8 trending · 5 AI-related · 3 new today
+9 trending · 8 AI-related · 3 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +886 / 51,633 | A spy satellite simulator in your browser, except the data is real. Live open source spat… |
-| 7 | 🤖 [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +548 / 36,461 | AirLLM 70B inference with single 4GB GPU |
-| 8 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | +466 / 74,233 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 5 | 🤖 [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 / 154,966 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 8 | 🤖 [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 / 40,896 | Official inference framework for 1-bit LLMs |
+| 9 | 🤖 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 / 59,082 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ … |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | +25,599 / 103,360 | +25% in a day | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2,957 / 17,809 | +17% in a day | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +3,952 / 30,046 | +13% in a day | Tool for automatic PS5 executables porting to Linux and Windows |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45,327 / 155,657 | +29% in a day | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4,095 / 21,909 | +19% in a day | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +25,599 / 103,360 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2,957 / 17,809 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1,083 / 50,301 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, a… |
-| 6 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | +315 / 104,473 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +548 / 36,461 | AirLLM 70B inference with single 4GB GPU |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45,327 / 155,657 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +246 / 27,268 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), … |
+| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4,095 / 21,909 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 5 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 / 154,966 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +2,081 / 52,555 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, a… |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +879 / 37,503 | AirLLM 2.8T LLM inference with single 4GB GPU |
+| 8 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 / 40,896 | Official inference framework for 1-bit LLMs |
+| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 / 59,082 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ … |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +3,952 / 30,046 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +886 / 51,633 | A spy satellite simulator in your browser, except the data is real. Live open source spat… |
-| 8 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | +466 / 74,233 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1,895 / 53,616 | A spy satellite simulator in your browser, except the data is real. Live open source spat… |
 
 ## 📌 On a Streak
 
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — 7 days in a row (7 days total, best rank #1)
-- [morluto/rea](https://github.com/morluto/rea) — 6 days in a row (6 days total, best rank #1)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 6 days in a row (6 days total, best rank #2)
-- [storytold/artcraft](https://github.com/storytold/artcraft) — 4 days in a row (4 days total, best rank #3)
+- [morluto/rea](https://github.com/morluto/rea) — 7 days in a row (7 days total, best rank #1)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 7 days in a row (7 days total, best rank #2)
+- [storytold/artcraft](https://github.com/storytold/artcraft) — 5 days in a row (5 days total, best rank #3)
 
 ---
 
