@@ -1,46 +1,49 @@
-# 🔭 GitHub Trending Radar — 2026-10-13
+# 🔭 GitHub Trending Radar — 2026-10-14
 
-9 trending · 8 AI-related · 3 new today
+9 trending · 7 AI-related · 3 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 5 | 🤖 [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 / 154,966 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| 8 | 🤖 [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 / 40,896 | Official inference framework for 1-bit LLMs |
-| 9 | 🤖 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 / 59,082 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ … |
+| 3 | 🤖 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1,748 / 63,190 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
+| 6 | 🤖 [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | +190 / 34,478 | The open agent skills tool - npx skills |
+| 9 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1,198 / 9,322 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Window… |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45,327 / 155,657 | +29% in a day | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4,095 / 21,909 | +19% in a day | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | +54,679 / 206,330 | +27% in a day | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4,081 / 25,599 | +16% in a day | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1,198 / 9,322 | +13% in a day | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Window… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45,327 / 155,657 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +246 / 27,268 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), … |
-| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4,095 / 21,909 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 5 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 / 154,966 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +2,081 / 52,555 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, a… |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +879 / 37,503 | AirLLM 2.8T LLM inference with single 4GB GPU |
-| 8 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 / 40,896 | Official inference framework for 1-bit LLMs |
-| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 / 59,082 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ … |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +54,679 / 206,330 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1,748 / 63,190 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +969 / 28,212 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), … |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1,815 / 54,068 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, a… |
+| 6 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | +190 / 34,478 | The open agent skills tool - npx skills |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +1,001 / 38,303 | AirLLM 2.8T LLM inference with single 4GB GPU |
+| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4,081 / 25,599 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1,895 / 53,616 | A spy satellite simulator in your browser, except the data is real. Live open source spat… |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1,961 / 55,336 | A spy satellite simulator in your browser, except the data is real. Live open source spat… |
+| 9 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1,198 / 9,322 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Window… |
 
 ## 📌 On a Streak
 
-- [morluto/rea](https://github.com/morluto/rea) — 7 days in a row (7 days total, best rank #1)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 7 days in a row (7 days total, best rank #2)
-- [storytold/artcraft](https://github.com/storytold/artcraft) — 5 days in a row (5 days total, best rank #3)
+- [morluto/rea](https://github.com/morluto/rea) — 8 days in a row (8 days total, best rank #1)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 8 days in a row (8 days total, best rank #2)
+- [storytold/artcraft](https://github.com/storytold/artcraft) — 6 days in a row (6 days total, best rank #3)
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — 3 days in a row (3 days total, best rank #2)
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) — 3 days in a row (3 days total, best rank #7)
 
 ---
 
