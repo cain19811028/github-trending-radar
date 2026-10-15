@@ -36,11 +36,32 @@
     "last_seen": "2026-10-09",
     "streak": 2
    },
+   "HKUDS/CLI-Anything": {
+    "best_rank": 6,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "streak": 1
+   },
+   "K-Dense-AI/scientific-agent-skills": {
+    "best_rank": 5,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "streak": 1
+   },
    "M-Abozaid/esp32-c3-adblock": {
     "best_rank": 13,
     "days": 1,
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
+    "streak": 1
+   },
+   "NationalSecurityAgency/ghidra": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
     "streak": 1
    },
    "OpenCut-app/OpenCut": {
@@ -170,11 +191,11 @@
     "streak": 1
    },
    "debpalash/VoiceStudio": {
-    "best_rank": 3,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14",
-    "streak": 1
+    "last_seen": "2026-10-15",
+    "streak": 2
    },
    "deepseek-ai/DeepGEMM": {
     "best_rank": 9,
@@ -225,6 +246,13 @@
     "last_seen": "2026-10-11",
     "streak": 1
    },
+   "ifixai-ai/iFixAi": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "streak": 1
+   },
    "liquidslr/system-design-notes": {
     "best_rank": 9,
     "days": 1,
@@ -269,17 +297,17 @@
    },
    "mksglu/context-mode": {
     "best_rank": 3,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-14",
-    "streak": 2
+    "last_seen": "2026-10-15",
+    "streak": 3
    },
    "morluto/rea": {
     "best_rank": 1,
-    "days": 8,
+    "days": 9,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-14",
-    "streak": 8
+    "last_seen": "2026-10-15",
+    "streak": 9
    },
    "msitarzewski/agency-agents": {
     "best_rank": 10,
@@ -293,6 +321,20 @@
     "days": 1,
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
+    "streak": 1
+   },
+   "ntdevlabs/tiny11builder": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "streak": 1
+   },
+   "nvm-sh/nvm": {
+    "best_rank": 4,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
     "streak": 1
    },
    "open-webui/open-webui": {
@@ -322,6 +364,13 @@
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-12",
     "streak": 2
+   },
+   "rust-lang/rust": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "streak": 1
    },
    "storytold/artcraft": {
     "best_rank": 3,
@@ -372,12 +421,19 @@
     "last_seen": "2026-10-14",
     "streak": 1
    },
+   "vxcontrol/pentagi": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "streak": 1
+   },
    "xtool-org/xtool": {
     "best_rank": 9,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14",
-    "streak": 1
+    "last_seen": "2026-10-15",
+    "streak": 2
    }
   },
   "go": {
