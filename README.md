@@ -1,53 +1,53 @@
-# 🔭 GitHub Trending Radar — 2026-10-15
+# 🔭 GitHub Trending Radar — 2026-10-16
 
-12 trending · 7 AI-related · 8 new today
+12 trending · 11 AI-related · 7 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 4 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +52 / 95,446 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js vers… |
-| 5 | 🤖 [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +163 / 49,308 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by … |
-| 6 | 🤖 [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +103 / 52,471 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 7 | 🤖 [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Python | +2,109 / 27,360 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most c… |
-| 8 | 🤖 [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | +1,025 / 29,410 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| 9 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +207 / 120,011 | Empowering everyone to build reliable and efficient software. |
-| 11 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | C# | +139 / 20,204 | WinUI app for building smaller, customized Windows 11 images. |
-| 12 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +1,008 / 87,457 | Ghidra is a software reverse engineering (SRE) framework |
+| 2 | 🤖 [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +307 / 39,058 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 4 | 🤖 [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +433 / 112,522 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that … |
+| 6 | 🤖 [obra/superpowers](https://github.com/obra/superpowers) | Shell | +582 / 299,869 | An agentic skills framework & software development methodology that works. |
+| 7 | 🤖 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +147 / 75,101 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomo… |
+| 10 | 🤖 [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1,013 / 280,349 | The agent harness performance optimization system. Skills, instincts, memory, security, a… |
+| 11 | 🤖 [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) | Python | +30 / 2,474 | TokenSpeed is a speed-of-light LLM inference engine. |
+| 12 | 🤖 [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +715 / 5,614 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to k… |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | +41,034 / 241,108 | +17% in a day | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1,502 / 10,773 | +14% in a day | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Window… |
+| [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +715 / 5,614 | +13% in a day | XERJ is the new way for AI to search data. Its autoindex capability activates agents to k… |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | +32,314 / 269,441 | +12% in a day | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +41,034 / 241,108 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3,538 / 66,273 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
-| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +947 / 29,096 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), … |
-| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +163 / 49,308 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by … |
-| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +103 / 52,471 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 7 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Python | +2,109 / 27,360 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most c… |
-| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | +1,025 / 29,410 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +32,314 / 269,441 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +307 / 39,058 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1,091 / 50,443 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by … |
+| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +433 / 112,522 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that … |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3,024 / 69,031 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +582 / 299,869 | An agentic skills framework & software development methodology that works. |
+| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +147 / 75,101 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomo… |
+| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +904 / 29,785 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), … |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1,013 / 280,349 | The agent harness performance optimization system. Skills, instincts, memory, security, a… |
+| 11 | [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) | Python | +30 / 2,474 | TokenSpeed is a speed-of-light LLM inference engine. |
+| 12 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +715 / 5,614 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to k… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 4 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +52 / 95,446 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js vers… |
-| 9 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +207 / 120,011 | Empowering everyone to build reliable and efficient software. |
-| 10 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1,502 / 10,773 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Window… |
-| 11 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | C# | +139 / 20,204 | WinUI app for building smaller, customized Windows 11 images. |
-| 12 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +1,008 / 87,457 | Ghidra is a software reverse engineering (SRE) framework |
+| 9 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +1,369 / 88,719 | Ghidra is a software reverse engineering (SRE) framework |
 
 ## 📌 On a Streak
 
-- [morluto/rea](https://github.com/morluto/rea) — 9 days in a row (9 days total, best rank #1)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) — 3 days in a row (4 days total, best rank #3)
+- [morluto/rea](https://github.com/morluto/rea) — 10 days in a row (10 days total, best rank #1)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) — 4 days in a row (5 days total, best rank #3)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — 3 days in a row (3 days total, best rank #2)
 
 ---
 

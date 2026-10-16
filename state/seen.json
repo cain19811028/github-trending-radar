@@ -43,12 +43,19 @@
     "last_seen": "2026-10-15",
     "streak": 1
    },
-   "K-Dense-AI/scientific-agent-skills": {
-    "best_rank": 5,
+   "JuliusBrussee/caveman": {
+    "best_rank": 4,
     "days": 1,
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
     "streak": 1
+   },
+   "K-Dense-AI/scientific-agent-skills": {
+    "best_rank": 3,
+    "days": 2,
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
+    "streak": 2
    },
    "M-Abozaid/esp32-c3-adblock": {
     "best_rank": 13,
@@ -58,11 +65,11 @@
     "streak": 1
    },
    "NationalSecurityAgency/ghidra": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 9,
+    "days": 2,
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
-    "streak": 1
+    "last_seen": "2026-10-16",
+    "streak": 2
    },
    "OpenCut-app/OpenCut": {
     "best_rank": 14,
@@ -99,11 +106,25 @@
     "last_seen": "2026-10-10",
     "streak": 1
    },
+   "affaan-m/ECC": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "streak": 1
+   },
    "alibaba/open-code-review": {
     "best_rank": 5,
     "days": 1,
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-10",
+    "streak": 1
+   },
+   "anthropics/claude-plugins-official": {
+    "best_rank": 2,
+    "days": 1,
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
     "streak": 1
    },
    "anthropics/knowledge-work-plugins": {
@@ -192,10 +213,10 @@
    },
    "debpalash/VoiceStudio": {
     "best_rank": 2,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-15",
-    "streak": 2
+    "last_seen": "2026-10-16",
+    "streak": 3
    },
    "deepseek-ai/DeepGEMM": {
     "best_rank": 9,
@@ -253,6 +274,13 @@
     "last_seen": "2026-10-15",
     "streak": 1
    },
+   "lightseekorg/tokenspeed": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "streak": 1
+   },
    "liquidslr/system-design-notes": {
     "best_rank": 9,
     "days": 1,
@@ -297,17 +325,17 @@
    },
    "mksglu/context-mode": {
     "best_rank": 3,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-15",
-    "streak": 3
+    "last_seen": "2026-10-16",
+    "streak": 4
    },
    "morluto/rea": {
     "best_rank": 1,
-    "days": 9,
+    "days": 10,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-15",
-    "streak": 9
+    "last_seen": "2026-10-16",
+    "streak": 10
    },
    "msitarzewski/agency-agents": {
     "best_rank": 10,
@@ -335,6 +363,13 @@
     "days": 1,
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
+    "streak": 1
+   },
+   "obra/superpowers": {
+    "best_rank": 6,
+    "days": 1,
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
     "streak": 1
    },
    "open-webui/open-webui": {
@@ -370,6 +405,13 @@
     "days": 1,
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
+    "streak": 1
+   },
+   "ruvnet/ruflo": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
     "streak": 1
    },
    "storytold/artcraft": {
@@ -426,6 +468,13 @@
     "days": 1,
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
+    "streak": 1
+   },
+   "xerj-org/xerj": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
     "streak": 1
    },
    "xtool-org/xtool": {
