@@ -1,50 +1,53 @@
-# 🔭 GitHub Trending Radar — 2026-10-17
+# 🔭 GitHub Trending Radar — 2026-10-18
 
-13 trending · 10 AI-related · 4 new today
+13 trending · 12 AI-related · 4 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 7 | [android/skills](https://github.com/android/skills) | Kotlin | +36 / 8,058 |  |
-| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +278 / 11,940 | Cursor plugin specification and official plugins |
-| 11 | 🤖 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +898 / 48,488 | The job search that runs on your machine. AI job application framework built on Claude Co… |
-| 12 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | JavaScript | +538 / 23,661 | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网… |
+| 6 | 🤖 [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +178 / 9,909 | Solution for long term memory for agent coding CLIs and to facilitate handoff between dif… |
+| 8 | 🤖 [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +830 / 95,385 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run an… |
+| 9 | 🤖 [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +179 / 151,721 | Claude Code is an agentic coding tool that lives in your terminal, understands your codeb… |
+| 11 | 🤖 [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +438 / 215,282 | The open source coding agent. |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +1,648 / 6,913 | +24% in a day | XERJ is the new way for AI to search data. Its autoindex capability activates agents to k… |
+| [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +1,160 / 7,779 | +15% in a day | XERJ is the new way for AI to search data. Its autoindex capability activates agents to k… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +1,552 / 40,520 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1,158 / 51,483 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by … |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1,057 / 281,486 | The agent harness performance optimization system. Skills, instincts, memory, security, a… |
-| 4 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +281 / 53,484 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +449 / 30,221 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), … |
-| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +672 / 75,624 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomo… |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +973 / 300,676 | An agentic skills framework & software development methodology that works. |
-| 10 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2,301 / 71,131 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
-| 11 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +898 / 48,488 | The job search that runs on your machine. AI job application framework built on Claude Co… |
-| 13 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +1,648 / 6,913 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to k… |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +1,397 / 41,721 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +1,365 / 50,354 | The job search that runs on your machine. AI job application framework built on Claude Co… |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1,145 / 282,485 | The agent harness performance optimization system. Skills, instincts, memory, security, a… |
+| 4 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +574 / 54,044 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +878 / 52,233 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by … |
+| 6 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +178 / 9,909 | Solution for long term memory for agent coding CLIs and to facilitate handoff between dif… |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +830 / 95,385 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run an… |
+| 9 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +179 / 151,721 | Claude Code is an agentic coding tool that lives in your terminal, understands your codeb… |
+| 10 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2,125 / 73,302 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
+| 11 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +438 / 215,282 | The open source coding agent. |
+| 12 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +420 / 76,052 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomo… |
+| 13 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +1,160 / 7,779 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to k… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 7 | [android/skills](https://github.com/android/skills) | Kotlin | +36 / 8,058 |  |
-| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +278 / 11,940 | Cursor plugin specification and official plugins |
-| 12 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | JavaScript | +538 / 23,661 | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网… |
+| 7 | [android/skills](https://github.com/android/skills) | Kotlin | +355 / 8,415 |  |
 
 ## 📌 On a Streak
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) — 5 days in a row (6 days total, best rank #3)
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — 4 days in a row (4 days total, best rank #2)
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — 3 days in a row (3 days total, best rank #2)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — 5 days in a row (5 days total, best rank #2)
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — 4 days in a row (4 days total, best rank #2)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) — 3 days in a row (3 days total, best rank #1)
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — 3 days in a row (3 days total, best rank #3)
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 3 days in a row (3 days total, best rank #6)
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) — 3 days in a row (3 days total, best rank #12)
 
 ---
 
