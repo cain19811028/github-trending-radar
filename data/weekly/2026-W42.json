@@ -1,0 +1,226 @@
+{
+ "week": "2026-W42",
+ "fetched_at": "2026-10-19T08:00:34+08:00",
+ "boards": {
+  "all": [
+   {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 321942,
+    "forks": 81587,
+    "stars_this_week": 239923,
+    "created_at": "2026-04-14T00:51:32Z",
+    "topics": [
+     "ai-agents",
+     "binary-analysis",
+     "cli",
+     "decompiler",
+     "mcp",
+     "model-context-protocol",
+     "reverse-engineering",
+     "static-analysis",
+     "agent-skills",
+     "dsh-plugin",
+     "cordis",
+     "dsh",
+     "hopper",
+     "ghidra",
+     "claude-code",
+     "codex",
+     "developer-tools",
+     "llm",
+     "rea",
+     "touhou"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 2,
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 32700,
+    "forks": 5184,
+    "stars_this_week": 18479,
+    "created_at": "2022-03-31T23:19:12Z",
+    "topics": [
+     "3d-graphics",
+     "ai",
+     "aivideo",
+     "filmmaking",
+     "imagegeneration"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 3,
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 43180,
+    "forks": 3918,
+    "stars_this_week": 16250,
+    "created_at": "2026-08-03T21:30:25Z",
+    "topics": [
+     "dynamic-library",
+     "game-porting",
+     "ps5-tools",
+     "vulkan",
+     "spir-v",
+     "anyps5",
+     "ps5"
+    ],
+    "is_ai": false
+   },
+   {
+    "rank": 4,
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 42660,
+    "forks": 4531,
+    "stars_this_week": 3581,
+    "created_at": "2025-11-20T18:36:20Z",
+    "topics": [
+     "claude-code",
+     "mcp",
+     "skills"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 5,
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 30750,
+    "forks": 2276,
+    "stars_this_week": 4438,
+    "created_at": "2026-02-23T05:56:28Z",
+    "topics": [
+     "claude",
+     "claude-code",
+     "claude-code-plugins",
+     "mcp",
+     "skills",
+     "codex",
+     "copilot",
+     "opencode",
+     "antigravity",
+     "kiro",
+     "openclaw",
+     "claude-code-hooks",
+     "claude-code-skill",
+     "codex-cli",
+     "cursor-plugin",
+     "mcp-server",
+     "mcp-tools",
+     "pi-agent",
+     "zed-extension",
+     "context-mode"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 6,
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 57671,
+    "forks": 3688,
+    "stars_this_week": 8382,
+    "created_at": "2026-04-16T18:01:16Z",
+    "topics": [
+     "agent-skills",
+     "claude-code",
+     "codex",
+     "data-visualization",
+     "diagrams",
+     "drawio",
+     "mermaid",
+     "svg"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 7,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 90882,
+    "forks": 10175,
+    "stars_this_week": 7608,
+    "created_at": "2019-03-01T03:27:48Z",
+    "topics": [
+     "software-analysis",
+     "disassembler",
+     "reverse-engineering"
+    ],
+    "is_ai": false
+   },
+   {
+    "rank": 8,
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 66723,
+    "forks": 6048,
+    "stars_this_week": 5639,
+    "created_at": "2026-03-10T01:51:06Z",
+    "topics": [
+     "ai",
+     "animation",
+     "ffmpeg",
+     "framework",
+     "gsap",
+     "html",
+     "mcp",
+     "puppeteer",
+     "rendering",
+     "typescript",
+     "video"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 9,
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 12732,
+    "forks": 1254,
+    "stars_this_week": 1536,
+    "created_at": "2026-01-23T01:57:42Z",
+    "topics": [],
+    "is_ai": false
+   },
+   {
+    "rank": 10,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars": 53080,
+    "forks": 17352,
+    "stars_this_week": 4200,
+    "created_at": "2026-03-18T14:33:04Z",
+    "topics": [
+     "ai",
+     "ai-agents",
+     "career",
+     "claude-code",
+     "cover-letter",
+     "cv",
+     "interview-preparation",
+     "job-application",
+     "job-hunting",
+     "job-search",
+     "latex",
+     "resume"
+    ],
+    "is_ai": true
+   }
+  ]
+ }
+}

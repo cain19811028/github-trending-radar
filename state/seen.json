@@ -15,6 +15,13 @@
     "last_seen": "2026-10-10",
     "streak": 1
    },
+   "Comfy-Org/ComfyUI": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "streak": 1
+   },
    "DietrichGebert/ponytail": {
     "best_rank": 4,
     "days": 1,
@@ -38,10 +45,10 @@
    },
    "HKUDS/CLI-Anything": {
     "best_rank": 4,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-18",
-    "streak": 2
+    "last_seen": "2026-10-19",
+    "streak": 3
    },
    "JuliusBrussee/caveman": {
     "best_rank": 4,
@@ -57,6 +64,13 @@
     "last_seen": "2026-10-18",
     "streak": 4
    },
+   "Kruk2/jasna": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "streak": 1
+   },
    "M-Abozaid/esp32-c3-adblock": {
     "best_rank": 13,
     "days": 1,
@@ -65,11 +79,11 @@
     "streak": 1
    },
    "MadsLorentzen/ai-job-search": {
-    "best_rank": 2,
-    "days": 2,
+    "best_rank": 1,
+    "days": 3,
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-18",
-    "streak": 2
+    "last_seen": "2026-10-19",
+    "streak": 3
    },
    "NationalSecurityAgency/ghidra": {
     "best_rank": 9,
@@ -122,10 +136,10 @@
    },
    "akitaonrails/ai-memory": {
     "best_rank": 6,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "streak": 1
+    "last_seen": "2026-10-19",
+    "streak": 2
    },
    "alibaba/open-code-review": {
     "best_rank": 5,
@@ -136,17 +150,17 @@
    },
    "android/skills": {
     "best_rank": 7,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-18",
-    "streak": 2
+    "last_seen": "2026-10-19",
+    "streak": 3
    },
    "anomalyco/opencode": {
-    "best_rank": 11,
-    "days": 1,
+    "best_rank": 3,
+    "days": 2,
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "streak": 1
+    "last_seen": "2026-10-19",
+    "streak": 2
    },
    "anthropics/claude-code": {
     "best_rank": 9,
@@ -157,10 +171,10 @@
    },
    "anthropics/claude-plugins-official": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-18",
-    "streak": 3
+    "last_seen": "2026-10-19",
+    "streak": 4
    },
    "anthropics/knowledge-work-plugins": {
     "best_rank": 6,
@@ -247,18 +261,18 @@
     "streak": 1
    },
    "cursor/plugins": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-19",
     "streak": 1
    },
    "debpalash/VoiceStudio": {
     "best_rank": 2,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-18",
-    "streak": 5
+    "last_seen": "2026-10-19",
+    "streak": 6
    },
    "deepseek-ai/DeepGEMM": {
     "best_rank": 9,
@@ -379,6 +393,13 @@
     "last_seen": "2026-10-17",
     "streak": 5
    },
+   "mlabonne/llm-course": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "streak": 1
+   },
    "morluto/rea": {
     "best_rank": 1,
     "days": 10,
@@ -457,18 +478,18 @@
     "streak": 1
    },
    "ruvnet/ruflo": {
-    "best_rank": 6,
-    "days": 3,
+    "best_rank": 5,
+    "days": 4,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-18",
-    "streak": 3
+    "last_seen": "2026-10-19",
+    "streak": 4
    },
    "stablyai/orca": {
-    "best_rank": 8,
-    "days": 1,
+    "best_rank": 7,
+    "days": 2,
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "streak": 1
+    "last_seen": "2026-10-19",
+    "streak": 2
    },
    "storytold/artcraft": {
     "best_rank": 3,
