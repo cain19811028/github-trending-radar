@@ -1,51 +1,48 @@
-# 🔭 GitHub Trending Radar — 2026-10-20
+# 🔭 GitHub Trending Radar — 2026-10-21
 
-12 trending · 9 AI-related · 3 new today
+13 trending · 12 AI-related · 2 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 7 | 🤖 [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | +310 / 76,230 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer t… |
-| 8 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | +284 / 6,103 |  |
-| 12 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +363 / 41,638 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 7 | 🤖 [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +802 / 130,209 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowle… |
+| 13 | 🤖 [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | +128 / 94,427 | A high-throughput and memory-efficient inference and serving engine for LLMs |
 
 ## 🚀 Breakouts
 
-| Repo | Language | ⭐ Today / Total | Why | Description |
-|---|---|---|---|---|
-| [Kruk2/jasna](https://github.com/Kruk2/jasna) | Python | +498 / 2,876 | +17% in a day | Video restoration tool |
+_None today._
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3,856 / 57,159 | The job search that runs on your machine. AI job application framework built on Claude Co… |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1,311 / 217,780 | The open source coding agent. |
-| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +666 / 11,318 | Solution for long term memory for agent coding CLIs and to facilitate handoff between dif… |
-| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1,011 / 139,694 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes int… |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +564 / 77,170 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomo… |
-| 6 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1,590 / 98,232 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run an… |
-| 7 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | +310 / 76,230 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer t… |
-| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +606 / 55,221 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +167 / 152,636 | Claude Code is an agentic coding tool that lives in your terminal, understands your codeb… |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3,861 / 60,498 | The job search that runs on your machine. AI job application framework built on Claude Co… |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +1,712 / 34,137 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1,565 / 99,705 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run an… |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1,208 / 169,603 | Makes your AI agent think like the laziest senior dev in the room. The best code is the c… |
+| 5 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1,206 / 140,733 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes int… |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +684 / 77,827 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomo… |
+| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +802 / 130,209 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowle… |
+| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1,240 / 218,890 | The open source coding agent. |
+| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +562 / 162,325 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninja… |
+| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | +549 / 76,740 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer t… |
+| 11 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +267 / 30,781 | Open source repository of plugins primarily intended for knowledge workers to use in Clau… |
+| 13 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | +128 / 94,427 | A high-throughput and memory-efficient inference and serving engine for LLMs |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 8 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | +284 / 6,103 |  |
-| 9 | [Kruk2/jasna](https://github.com/Kruk2/jasna) | Python | +498 / 2,876 | Video restoration tool |
-| 12 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +363 / 41,638 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 12 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +733 / 42,343 | Kronos: A Foundation Model for the Language of Financial Markets |
 
 ## 📌 On a Streak
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 5 days in a row (5 days total, best rank #5)
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — 4 days in a row (4 days total, best rank #1)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — 4 days in a row (5 days total, best rank #4)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) — 3 days in a row (3 days total, best rank #2)
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) — 3 days in a row (3 days total, best rank #3)
-- [stablyai/orca](https://github.com/stablyai/orca) — 3 days in a row (3 days total, best rank #6)
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 6 days in a row (6 days total, best rank #5)
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — 5 days in a row (5 days total, best rank #1)
+- [stablyai/orca](https://github.com/stablyai/orca) — 4 days in a row (4 days total, best rank #3)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) — 4 days in a row (4 days total, best rank #2)
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 3 days in a row (3 days total, best rank #4)
 
 ---
 
