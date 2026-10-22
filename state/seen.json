@@ -17,17 +17,17 @@
    },
    "Comfy-Org/ComfyUI": {
     "best_rank": 4,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-19",
-    "last_seen": "2026-10-21",
-    "streak": 3
+    "last_seen": "2026-10-22",
+    "streak": 4
    },
    "DietrichGebert/ponytail": {
     "best_rank": 4,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-21",
-    "streak": 1
+    "last_seen": "2026-10-22",
+    "streak": 2
    },
    "DuarteSantos8/openGym": {
     "best_rank": 9,
@@ -45,10 +45,10 @@
    },
    "Graphify-Labs/graphify": {
     "best_rank": 7,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "streak": 1
+    "last_seen": "2026-10-22",
+    "streak": 2
    },
    "HKUDS/CLI-Anything": {
     "best_rank": 4,
@@ -143,10 +143,10 @@
    },
    "akitaonrails/ai-memory": {
     "best_rank": 3,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-20",
-    "streak": 3
+    "last_seen": "2026-10-22",
+    "streak": 1
    },
    "alibaba/open-code-review": {
     "best_rank": 5,
@@ -254,11 +254,11 @@
     "streak": 1
    },
    "cloudflare/security-audit-skill": {
-    "best_rank": 2,
-    "days": 2,
+    "best_rank": 1,
+    "days": 3,
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-21",
-    "streak": 1
+    "last_seen": "2026-10-22",
+    "streak": 2
    },
    "coreyhaines31/marketingskills": {
     "best_rank": 3,
@@ -317,11 +317,11 @@
     "streak": 1
    },
    "headroomlabs-ai/headroom": {
-    "best_rank": 7,
-    "days": 2,
+    "best_rank": 4,
+    "days": 3,
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-21",
-    "streak": 2
+    "last_seen": "2026-10-22",
+    "streak": 3
    },
    "hmjz100/LinkSwift": {
     "best_rank": 12,
@@ -499,18 +499,18 @@
     "streak": 6
    },
    "shiyu-coder/Kronos": {
-    "best_rank": 12,
-    "days": 2,
+    "best_rank": 9,
+    "days": 3,
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-21",
-    "streak": 2
+    "last_seen": "2026-10-22",
+    "streak": 3
    },
    "stablyai/orca": {
     "best_rank": 3,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-21",
-    "streak": 4
+    "last_seen": "2026-10-22",
+    "streak": 5
    },
    "storytold/artcraft": {
     "best_rank": 3,
@@ -518,6 +518,13 @@
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-14",
     "streak": 6
+   },
+   "supabase/supabase": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "streak": 1
    },
    "tensorflow/tensorflow": {
     "best_rank": 8,
@@ -547,6 +554,13 @@
     "last_seen": "2026-10-08",
     "streak": 1
    },
+   "twentyhq/twenty": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "streak": 1
+   },
    "twostraws/SwiftUI-Agent-Skill": {
     "best_rank": 11,
     "days": 1,
@@ -562,11 +576,11 @@
     "streak": 1
    },
    "vllm-project/vllm": {
-    "best_rank": 13,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "streak": 1
+    "last_seen": "2026-10-22",
+    "streak": 2
    },
    "vxcontrol/pentagi": {
     "best_rank": 8,
