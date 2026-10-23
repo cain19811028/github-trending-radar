@@ -23,11 +23,11 @@
     "streak": 4
    },
    "DietrichGebert/ponytail": {
-    "best_rank": 4,
-    "days": 3,
+    "best_rank": 3,
+    "days": 4,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-22",
-    "streak": 2
+    "last_seen": "2026-10-23",
+    "streak": 3
    },
    "DuarteSantos8/openGym": {
     "best_rank": 9,
@@ -44,11 +44,11 @@
     "streak": 2
    },
    "Graphify-Labs/graphify": {
-    "best_rank": 7,
-    "days": 2,
+    "best_rank": 5,
+    "days": 3,
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-22",
-    "streak": 2
+    "last_seen": "2026-10-23",
+    "streak": 3
    },
    "HKUDS/CLI-Anything": {
     "best_rank": 4,
@@ -91,6 +91,13 @@
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-21",
     "streak": 5
+   },
+   "Meloong-Git/PCL": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "streak": 1
    },
    "NationalSecurityAgency/ghidra": {
     "best_rank": 9,
@@ -184,10 +191,10 @@
     "streak": 4
    },
    "anthropics/knowledge-work-plugins": {
-    "best_rank": 6,
-    "days": 4,
+    "best_rank": 2,
+    "days": 5,
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-23",
     "streak": 1
    },
    "antirez/ds4": {
@@ -255,10 +262,10 @@
    },
    "cloudflare/security-audit-skill": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-22",
-    "streak": 2
+    "last_seen": "2026-10-23",
+    "streak": 3
    },
    "coreyhaines31/marketingskills": {
     "best_rank": 3,
@@ -294,6 +301,13 @@
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-07",
     "streak": 3
+   },
+   "fastapi/fastapi": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "streak": 1
    },
    "flutter/flutter": {
     "best_rank": 7,
@@ -363,6 +377,13 @@
     "days": 1,
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09",
+    "streak": 1
+   },
+   "luongnv89/claude-howto": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
     "streak": 1
    },
    "lyogavin/airllm": {
@@ -470,6 +491,13 @@
     "last_seen": "2026-10-07",
     "streak": 1
    },
+   "php/php-src": {
+    "best_rank": 1,
+    "days": 1,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "streak": 1
+   },
    "pingdotgg/t3code": {
     "best_rank": 4,
     "days": 2,
@@ -520,11 +548,11 @@
     "streak": 6
    },
    "supabase/supabase": {
-    "best_rank": 7,
-    "days": 1,
+    "best_rank": 6,
+    "days": 2,
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22",
-    "streak": 1
+    "last_seen": "2026-10-23",
+    "streak": 2
    },
    "tensorflow/tensorflow": {
     "best_rank": 8,

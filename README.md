@@ -1,13 +1,15 @@
-# 🔭 GitHub Trending Radar — 2026-10-22
+# 🔭 GitHub Trending Radar — 2026-10-23
 
-11 trending · 10 AI-related · 2 new today
+9 trending · 6 AI-related · 4 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 7 | 🤖 [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | +504 / 112,984 | The Postgres development platform. Supabase gives you a dedicated Postgres database to bu… |
-| 8 | 🤖 [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +112 / 59,146 | The open alternative to Salesforce, designed for AI. |
+| 1 | [php/php-src](https://github.com/php/php-src) | C | +287 / 41,139 | The PHP Interpreter |
+| 7 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | +101 / 103,727 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| 8 | 🤖 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +177 / 43,173 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, w… |
+| 9 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Visual Basic .NET | +119 / 8,682 | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
 
 ## 🚀 Breakouts
 
@@ -17,29 +19,26 @@ _None today._
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,012 / 36,406 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
-| 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | +441 / 94,853 | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1,541 / 101,211 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run an… |
-| 4 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | +474 / 77,239 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer t… |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +2,079 / 171,581 | Makes your AI agent think like the laziest senior dev in the room. The best code is the c… |
-| 6 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +939 / 141,496 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes int… |
-| 7 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | +504 / 112,984 | The Postgres development platform. Supabase gives you a dedicated Postgres database to bu… |
-| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +112 / 59,146 | The open alternative to Salesforce, designed for AI. |
-| 10 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +286 / 12,313 | Solution for long term memory for agent coding CLIs and to facilitate handoff between dif… |
-| 11 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1,433 / 131,600 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowle… |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +303 / 31,570 | Open source repository of plugins primarily intended for knowledge workers to use in Clau… |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1,948 / 173,427 | Makes your AI agent think like the laziest senior dev in the room. The best code is the c… |
+| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,979 / 39,515 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
+| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1,408 / 132,919 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowle… |
+| 6 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | +693 / 113,472 | The Postgres development platform. Supabase gives you a dedicated Postgres database to bu… |
+| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +177 / 43,173 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, w… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 9 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +575 / 42,812 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 1 | [php/php-src](https://github.com/php/php-src) | C | +287 / 41,139 | The PHP Interpreter |
+| 7 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | +101 / 103,727 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| 9 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Visual Basic .NET | +119 / 8,682 | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
 
 ## 📌 On a Streak
 
-- [stablyai/orca](https://github.com/stablyai/orca) — 5 days in a row (5 days total, best rank #3)
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 4 days in a row (4 days total, best rank #4)
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — 3 days in a row (3 days total, best rank #4)
-- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — 3 days in a row (3 days total, best rank #9)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 3 days in a row (4 days total, best rank #3)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 3 days in a row (4 days total, best rank #1)
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — 3 days in a row (3 days total, best rank #5)
 
 ---
 
