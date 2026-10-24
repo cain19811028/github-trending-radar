@@ -1,15 +1,16 @@
-# 🔭 GitHub Trending Radar — 2026-10-23
+# 🔭 GitHub Trending Radar — 2026-10-24
 
-9 trending · 6 AI-related · 4 new today
+8 trending · 4 AI-related · 5 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [php/php-src](https://github.com/php/php-src) | C | +287 / 41,139 | The PHP Interpreter |
-| 7 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | +101 / 103,727 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| 8 | 🤖 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +177 / 43,173 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, w… |
-| 9 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Visual Basic .NET | +119 / 8,682 | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
+| 4 | 🤖 [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1,119 / 18,767 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +546 / 6,843 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 6 | 🤖 [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | +226 / 8,464 | claude-red is a curated library of offensive security skills designed for the Claude skil… |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +150 / 40,244 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, an… |
+| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +66 / 122,853 | Node.js JavaScript runtime ✨🐢🚀✨ |
 
 ## 🚀 Breakouts
 
@@ -19,26 +20,23 @@ _None today._
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +303 / 31,570 | Open source repository of plugins primarily intended for knowledge workers to use in Clau… |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1,948 / 173,427 | Makes your AI agent think like the laziest senior dev in the room. The best code is the c… |
-| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,979 / 39,515 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
-| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1,408 / 132,919 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowle… |
-| 6 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | +693 / 113,472 | The Postgres development platform. Supabase gives you a dedicated Postgres database to bu… |
-| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +177 / 43,173 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, w… |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,716 / 42,093 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
+| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +635 / 32,199 | Open source repository of plugins primarily intended for knowledge workers to use in Clau… |
+| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1,119 / 18,767 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | +226 / 8,464 | claude-red is a curated library of offensive security skills designed for the Claude skil… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [php/php-src](https://github.com/php/php-src) | C | +287 / 41,139 | The PHP Interpreter |
-| 7 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | +101 / 103,727 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| 9 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Visual Basic .NET | +119 / 8,682 | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
+| 2 | [php/php-src](https://github.com/php/php-src) | C | +716 / 41,557 | The PHP Interpreter |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +546 / 6,843 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +150 / 40,244 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, an… |
+| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +66 / 122,853 | Node.js JavaScript runtime ✨🐢🚀✨ |
 
 ## 📌 On a Streak
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 3 days in a row (4 days total, best rank #3)
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 3 days in a row (4 days total, best rank #1)
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — 3 days in a row (3 days total, best rank #5)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 4 days in a row (5 days total, best rank #1)
 
 ---
 
