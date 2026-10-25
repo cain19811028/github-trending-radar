@@ -100,11 +100,11 @@
     "streak": 1
    },
    "NVIDIA/OpenShell": {
-    "best_rank": 4,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
-    "streak": 1
+    "last_seen": "2026-10-25",
+    "streak": 2
    },
    "NationalSecurityAgency/ghidra": {
     "best_rank": 9,
@@ -112,6 +112,13 @@
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-16",
     "streak": 2
+   },
+   "Nutlope/hallmark": {
+    "best_rank": 4,
+    "days": 1,
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "streak": 1
    },
    "OpenBMB/VoxCPM": {
     "best_rank": 7,
@@ -232,6 +239,13 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "aws/agent-toolkit-for-aws": {
+    "best_rank": 3,
+    "days": 1,
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "streak": 1
+   },
    "ayghri/i-have-adhd": {
     "best_rank": 4,
     "days": 2,
@@ -290,10 +304,10 @@
    },
    "cloudflare/security-audit-skill": {
     "best_rank": 1,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-24",
-    "streak": 4
+    "last_seen": "2026-10-25",
+    "streak": 5
    },
    "coreyhaines31/marketingskills": {
     "best_rank": 3,
@@ -358,6 +372,13 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "google-gemini/gemini-cli": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "streak": 1
+   },
    "headroomlabs-ai/headroom": {
     "best_rank": 4,
     "days": 3,
@@ -393,6 +414,13 @@
     "last_seen": "2026-10-15",
     "streak": 1
    },
+   "jbiaojerry/ebook-treasure-chest": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "streak": 1
+   },
    "lightseekorg/tokenspeed": {
     "best_rank": 11,
     "days": 1,
@@ -408,10 +436,10 @@
     "streak": 1
    },
    "luongnv89/claude-howto": {
-    "best_rank": 8,
-    "days": 1,
+    "best_rank": 5,
+    "days": 2,
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-25",
     "streak": 1
    },
    "lyogavin/airllm": {
@@ -420,6 +448,13 @@
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-14",
     "streak": 3
+   },
+   "makecindy/cindy": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "streak": 1
    },
    "manaflow-ai/cmux": {
     "best_rank": 9,
@@ -521,9 +556,9 @@
    },
    "pbakaus/impeccable": {
     "best_rank": 2,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-25",
     "streak": 1
    },
    "php/php-src": {
@@ -539,6 +574,13 @@
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-06",
     "streak": 2
+   },
+   "pollen-robotics/microduck": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "streak": 1
    },
    "pytorch/pytorch": {
     "best_rank": 6,

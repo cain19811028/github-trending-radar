@@ -1,42 +1,47 @@
-# 🔭 GitHub Trending Radar — 2026-10-24
+# 🔭 GitHub Trending Radar — 2026-10-25
 
-8 trending · 4 AI-related · 5 new today
+10 trending · 8 AI-related · 6 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 4 | 🤖 [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1,119 / 18,767 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +546 / 6,843 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 6 | 🤖 [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | +226 / 8,464 | claude-red is a curated library of offensive security skills designed for the Claude skil… |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +150 / 40,244 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, an… |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +66 / 122,853 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 3 | 🤖 [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | +13 / 3,122 | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
+| 4 | 🤖 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +455 / 32,122 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +319 / 10,972 | A Tiny biped duck robot 🦆 |
+| 8 | 🤖 [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | +44 / 108,040 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
+| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | +227 / 22,592 | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了… |
+| 10 | 🤖 [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 / 4,085 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
 
 ## 🚀 Breakouts
 
-_None today._
+| Repo | Language | ⭐ Today / Total | Why | Description |
+|---|---|---|---|---|
+| [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 / 4,085 | +12% in a day | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,716 / 42,093 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
-| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +635 / 32,199 | Open source repository of plugins primarily intended for knowledge workers to use in Clau… |
-| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1,119 / 18,767 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | +226 / 8,464 | claude-red is a curated library of offensive security skills designed for the Claude skil… |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,264 / 44,509 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +896 / 19,467 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | +13 / 3,122 | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
+| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +455 / 32,122 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +392 / 44,547 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, w… |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +619 / 86,387 | The design language that makes your AI harness better at design. |
+| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | +44 / 108,040 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
+| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 / 4,085 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 2 | [php/php-src](https://github.com/php/php-src) | C | +716 / 41,557 | The PHP Interpreter |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +546 / 6,843 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +150 / 40,244 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, an… |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +66 / 122,853 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +319 / 10,972 | A Tiny biped duck robot 🦆 |
+| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | +227 / 22,592 | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了… |
 
 ## 📌 On a Streak
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 4 days in a row (5 days total, best rank #1)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 5 days in a row (6 days total, best rank #1)
 
 ---
 
