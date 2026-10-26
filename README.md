@@ -1,47 +1,46 @@
-# 🔭 GitHub Trending Radar — 2026-10-25
+# 🔭 GitHub Trending Radar — 2026-10-26
 
-10 trending · 8 AI-related · 6 new today
+11 trending · 8 AI-related · 4 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 3 | 🤖 [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | +13 / 3,122 | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
-| 4 | 🤖 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +455 / 32,122 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +319 / 10,972 | A Tiny biped duck robot 🦆 |
-| 8 | 🤖 [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | +44 / 108,040 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | +227 / 22,592 | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了… |
-| 10 | 🤖 [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 / 4,085 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
+| 6 | 🤖 [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +381 / 114,572 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 8 | 🤖 [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +51 / 1,688 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… |
+| 9 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | PHP | +152 / 64,350 | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you … |
+| 11 | 🤖 [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Python | +197 / 20,827 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO… |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 / 4,085 | +12% in a day | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +675 / 4,831 | +14% in a day | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,264 / 44,509 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +896 / 19,467 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | +13 / 3,122 | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
-| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +455 / 32,122 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +392 / 44,547 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, w… |
-| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +619 / 86,387 | The design language that makes your AI harness better at design. |
-| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | +44 / 108,040 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 / 4,085 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
+| 1 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +675 / 4,831 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1,317 / 33,709 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1,592 / 86,762 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1,092 / 87,664 | The design language that makes your AI harness better at design. |
+| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +381 / 114,572 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 8 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +51 / 1,688 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… |
+| 10 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,878 / 46,833 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
+| 11 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Python | +197 / 20,827 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +319 / 10,972 | A Tiny biped duck robot 🦆 |
-| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | +227 / 22,592 | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了… |
+| 5 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +647 / 11,612 | A Tiny biped duck robot 🦆 |
+| 7 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +199 / 7,530 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 9 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | PHP | +152 / 64,350 | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you … |
 
 ## 📌 On a Streak
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 5 days in a row (6 days total, best rank #1)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 6 days in a row (7 days total, best rank #1)
 
 ---
 
