@@ -64,12 +64,19 @@
     "last_seen": "2026-10-20",
     "streak": 4
    },
+   "HKUDS/DeepTutor": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "streak": 1
+   },
    "JetBrains/thinkrail": {
     "best_rank": 3,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-27",
-    "streak": 2
+    "last_seen": "2026-10-28",
+    "streak": 3
    },
    "JuliusBrussee/caveman": {
     "best_rank": 4,
@@ -136,10 +143,10 @@
    },
    "Nutlope/hallmark": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-27",
-    "streak": 3
+    "last_seen": "2026-10-28",
+    "streak": 4
    },
    "OpenBMB/VoxCPM": {
     "best_rank": 7,
@@ -206,10 +213,10 @@
    },
    "affaan-m/ECC": {
     "best_rank": 3,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-27",
-    "streak": 1
+    "last_seen": "2026-10-28",
+    "streak": 2
    },
    "akitaonrails/ai-memory": {
     "best_rank": 3,
@@ -386,6 +393,13 @@
     "last_seen": "2026-10-07",
     "streak": 3
    },
+   "elayadesign/ai-design-skills": {
+    "best_rank": 1,
+    "days": 1,
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "streak": 1
+   },
    "fastapi/fastapi": {
     "best_rank": 7,
     "days": 1,
@@ -415,11 +429,11 @@
     "streak": 1
    },
    "gitroomhq/postiz-app": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 7,
+    "days": 2,
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "streak": 1
+    "last_seen": "2026-10-28",
+    "streak": 2
    },
    "google-gemini/gemini-cli": {
     "best_rank": 8,
@@ -500,10 +514,10 @@
    },
    "makecindy/cindy": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-27",
-    "streak": 3
+    "last_seen": "2026-10-28",
+    "streak": 4
    },
    "manaflow-ai/cmux": {
     "best_rank": 9,
@@ -569,11 +583,11 @@
     "streak": 1
    },
    "nightly-labs/openbot": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 3,
+    "days": 2,
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "streak": 1
+    "last_seen": "2026-10-28",
+    "streak": 2
    },
    "nodejs/node": {
     "best_rank": 8,
@@ -597,11 +611,11 @@
     "streak": 1
    },
    "obra/superpowers": {
-    "best_rank": 6,
-    "days": 2,
+    "best_rank": 4,
+    "days": 3,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-17",
-    "streak": 2
+    "last_seen": "2026-10-28",
+    "streak": 1
    },
    "open-webui/open-webui": {
     "best_rank": 5,
@@ -612,10 +626,10 @@
    },
    "pbakaus/impeccable": {
     "best_rank": 2,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-27",
-    "streak": 3
+    "last_seen": "2026-10-28",
+    "streak": 4
    },
    "php/php-src": {
     "best_rank": 1,
@@ -707,6 +721,13 @@
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-09",
     "streak": 5
+   },
+   "togg53192-cmd/jailbreaks": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "streak": 1
    },
    "trycua/cua": {
     "best_rank": 10,

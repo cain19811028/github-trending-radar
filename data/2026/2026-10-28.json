@@ -1,0 +1,216 @@
+{
+ "date": "2026-10-28",
+ "fetched_at": "2026-10-28T08:00:34+08:00",
+ "boards": {
+  "all": [
+   {
+    "rank": 1,
+    "name": "elayadesign/ai-design-skills",
+    "description": "",
+    "language": "",
+    "stars": 9267,
+    "forks": 667,
+    "stars_today": 1395,
+    "created_at": "2026-07-29T06:43:16Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 2,
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 38950,
+    "forks": 2031,
+    "stars_today": 2830,
+    "created_at": "2026-04-27T20:47:10Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 3,
+    "name": "nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "language": "TypeScript",
+    "stars": 2398,
+    "forks": 248,
+    "stars_today": 777,
+    "created_at": "2026-08-12T21:32:03Z",
+    "topics": [
+     "ai-agents",
+     "bun",
+     "codex",
+     "electron",
+     "local-first",
+     "macos",
+     "solidjs",
+     "typescript"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 306421,
+    "forks": 27277,
+    "stars_today": 617,
+    "created_at": "2025-10-09T19:45:18Z",
+    "topics": [
+     "ai",
+     "brainstorming",
+     "coding",
+     "obra",
+     "sdlc",
+     "skills",
+     "superpowers",
+     "subagent-driven-development"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 5,
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "Rust",
+    "stars": 90474,
+    "forks": 5375,
+    "stars_today": 1449,
+    "created_at": "2025-11-16T01:52:04Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 6,
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "stars": 7440,
+    "forks": 885,
+    "stars_today": 1465,
+    "created_at": "2026-07-22T17:49:34Z",
+    "topics": [
+     "agent",
+     "ai-agent",
+     "ai-assistant",
+     "android",
+     "claude-code",
+     "codex",
+     "electron",
+     "ios",
+     "llm",
+     "macos",
+     "react-native",
+     "typescript",
+     "windows"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 7,
+    "name": "gitroomhq/postiz-app",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "language": "TypeScript",
+    "stars": 39347,
+    "forks": 7512,
+    "stars_today": 951,
+    "created_at": "2023-07-08T17:24:22Z",
+    "topics": [
+     "typescript",
+     "nextjs",
+     "redis",
+     "open-source",
+     "oss",
+     "scheduling-tool",
+     "social-media-scheduling-tool",
+     "open-source-social-media-scheduling-tool",
+     "postiz-cloud",
+     "postiz-hosted"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 8,
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 290860,
+    "forks": 43074,
+    "stars_today": 1165,
+    "created_at": "2026-01-18T00:51:51Z",
+    "topics": [
+     "ai-agents",
+     "anthropic",
+     "claude",
+     "claude-code",
+     "developer-tools",
+     "llm",
+     "mcp",
+     "productivity"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 9,
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "stars": 45829,
+    "forks": 5748,
+    "stars_today": 1598,
+    "created_at": "2025-12-28T15:35:54Z",
+    "topics": [
+     "ai-tutor",
+     "deepresearch",
+     "interactive-learning",
+     "multi-agent-systems",
+     "rag",
+     "ai-agents",
+     "cli-tool",
+     "clawbot",
+     "learning"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 10,
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 3967,
+    "forks": 211,
+    "stars_today": 1204,
+    "created_at": "2026-07-08T07:40:43Z",
+    "topics": [
+     "agent",
+     "agent-skills",
+     "agentic-ai",
+     "agentic-workflow",
+     "ai-coding",
+     "ai-tools",
+     "spec-driven",
+     "spec-driven-coding",
+     "spec-driven-development",
+     "vibe-coding",
+     "vibecoding",
+     "pi-agent",
+     "pi-agent-extension"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 11,
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "language": "",
+    "stars": 5486,
+    "forks": 817,
+    "stars_today": 902,
+    "created_at": "2026-06-18T18:21:25Z",
+    "topics": [],
+    "is_ai": false
+   }
+  ]
+ }
+}
