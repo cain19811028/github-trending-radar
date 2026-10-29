@@ -65,18 +65,18 @@
     "streak": 4
    },
    "HKUDS/DeepTutor": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "streak": 1
+    "last_seen": "2026-10-29",
+    "streak": 2
    },
    "JetBrains/thinkrail": {
-    "best_rank": 3,
-    "days": 3,
+    "best_rank": 1,
+    "days": 4,
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-28",
-    "streak": 3
+    "last_seen": "2026-10-29",
+    "streak": 4
    },
    "JuliusBrussee/caveman": {
     "best_rank": 4,
@@ -143,10 +143,10 @@
    },
    "Nutlope/hallmark": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-28",
-    "streak": 4
+    "last_seen": "2026-10-29",
+    "streak": 5
    },
    "OpenBMB/VoxCPM": {
     "best_rank": 7,
@@ -395,9 +395,16 @@
    },
    "elayadesign/ai-design-skills": {
     "best_rank": 1,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
+    "streak": 2
+   },
+   "expo/skills": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
     "streak": 1
    },
    "fastapi/fastapi": {
@@ -450,10 +457,10 @@
     "streak": 3
    },
    "hmjz100/LinkSwift": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 11,
+    "days": 2,
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-29",
     "streak": 1
    },
    "huggingface/transformers": {
@@ -512,12 +519,19 @@
     "last_seen": "2026-10-14",
     "streak": 3
    },
+   "macro-inc/macro": {
+    "best_rank": 5,
+    "days": 1,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "streak": 1
+   },
    "makecindy/cindy": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-28",
-    "streak": 4
+    "last_seen": "2026-10-29",
+    "streak": 5
    },
    "manaflow-ai/cmux": {
     "best_rank": 9,
@@ -584,10 +598,10 @@
    },
    "nightly-labs/openbot": {
     "best_rank": 3,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
-    "streak": 2
+    "last_seen": "2026-10-29",
+    "streak": 3
    },
    "nodejs/node": {
     "best_rank": 8,
@@ -611,11 +625,11 @@
     "streak": 1
    },
    "obra/superpowers": {
-    "best_rank": 4,
-    "days": 3,
+    "best_rank": 3,
+    "days": 4,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-28",
-    "streak": 1
+    "last_seen": "2026-10-29",
+    "streak": 2
    },
    "open-webui/open-webui": {
     "best_rank": 5,
@@ -626,10 +640,10 @@
    },
    "pbakaus/impeccable": {
     "best_rank": 2,
-    "days": 6,
+    "days": 7,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-28",
-    "streak": 4
+    "last_seen": "2026-10-29",
+    "streak": 5
    },
    "php/php-src": {
     "best_rank": 1,
@@ -664,6 +678,13 @@
     "days": 1,
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
+    "streak": 1
+   },
+   "ruvnet/RuView": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
     "streak": 1
    },
    "ruvnet/ruflo": {
@@ -723,11 +744,11 @@
     "streak": 5
    },
    "togg53192-cmd/jailbreaks": {
-    "best_rank": 11,
-    "days": 1,
+    "best_rank": 10,
+    "days": 2,
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "streak": 1
+    "last_seen": "2026-10-29",
+    "streak": 2
    },
    "trycua/cua": {
     "best_rank": 10,
@@ -784,6 +805,13 @@
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-18",
     "streak": 3
+   },
+   "xiaolai/the-craft-of-selfteaching": {
+    "best_rank": 14,
+    "days": 1,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "streak": 1
    },
    "xtool-org/xtool": {
     "best_rank": 9,
