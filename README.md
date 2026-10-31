@@ -1,54 +1,55 @@
-# 🔭 GitHub Trending Radar — 2026-10-30
+# 🔭 GitHub Trending Radar — 2026-10-31
 
-11 trending · 10 AI-related · 3 new today
+15 trending · 12 AI-related · 2 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 5 | 🤖 [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,199 / 7,455 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 9 | 🤖 [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +247 / 8,124 | Open-source AI coworkers that each get a computer of their own: a browser, files and tool… |
-| 11 | 🤖 [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +353 / 29,148 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… |
+| 11 | 🤖 [anthropics/skills](https://github.com/anthropics/skills) | Python | +295 / 185,294 | Public repository for Agent Skills |
+| 15 | 🤖 [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +626 / 38,344 | Lightpanda: the headless browser designed for AI and automation |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1,117 / 5,986 | +19% in a day | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +709 / 3,858 | +18% in a day | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok … |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | — | +1,594 / 8,978 | +18% in a day | LIST OF ALL MY JAILBREAKS |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,199 / 7,455 | +16% in a day | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | — | +2,055 / 10,964 | +19% in a day | LIST OF ALL MY JAILBREAKS |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +722 / 6,566 | +11% in a day | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +895 / 8,608 | +10% in a day | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +1,126 / 11,191 | +10% in a day | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1,930 / 49,993 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,034 / 308,518 | An agentic skills framework & software development methodology that works. |
-| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +2,870 / 95,263 | The design vocabulary for your coding agent. Steer with polish and bolder, review with cr… |
-| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1,117 / 5,986 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,199 / 7,455 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 6 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +709 / 3,858 | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok … |
-| 7 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | +1,187 / 12,111 |  |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +336 / 104,757 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … |
-| 9 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +247 / 8,124 | Open-source AI coworkers that each get a computer of their own: a browser, files and tool… |
-| 11 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +353 / 29,148 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,140 / 106,204 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … |
+| 2 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +895 / 8,608 | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +2,300 / 97,026 | The design vocabulary for your coding agent. Steer with polish and bolder, review with cr… |
+| 4 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +706 / 8,767 | Open-source AI coworkers that each get a computer of their own: a browser, files and tool… |
+| 6 | [expo/skills](https://github.com/expo/skills) | Shell | +38 / 3,890 | A collection of AI agent skills for working with Expo projects and Expo Application Servi… |
+| 7 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | +57 / 5,861 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM … |
+| 8 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +876 / 307,457 | Skills for Real Engineers. Straight from my .agents directory. |
+| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +2,282 / 51,752 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 11 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +295 / 185,294 | Public repository for Agent Skills |
+| 12 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +722 / 6,566 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… |
+| 14 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,259 / 309,411 | An agentic skills framework & software development methodology that works. |
+| 15 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +626 / 38,344 | Lightpanda: the headless browser designed for AI and automation |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | — | +1,594 / 8,978 | LIST OF ALL MY JAILBREAKS |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +1,126 / 11,191 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +930 / 32,722 |  |
+| 13 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | — | +2,055 / 10,964 | LIST OF ALL MY JAILBREAKS |
 
 ## 📌 On a Streak
 
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — 6 days in a row (8 days total, best rank #2)
-- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — 5 days in a row (5 days total, best rank #1)
-- [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — 4 days in a row (4 days total, best rank #3)
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — 3 days in a row (3 days total, best rank #1)
-- [obra/superpowers](https://github.com/obra/superpowers) — 3 days in a row (5 days total, best rank #2)
-- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) — 3 days in a row (3 days total, best rank #1)
-- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) — 3 days in a row (3 days total, best rank #10)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — 7 days in a row (9 days total, best rank #2)
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — 6 days in a row (6 days total, best rank #1)
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — 4 days in a row (4 days total, best rank #1)
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) — 4 days in a row (4 days total, best rank #10)
+- [obra/superpowers](https://github.com/obra/superpowers) — 4 days in a row (6 days total, best rank #2)
 
 ---
 

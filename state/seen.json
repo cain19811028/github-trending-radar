@@ -30,11 +30,11 @@
     "streak": 4
    },
    "CopilotKit/OpenBot": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "streak": 1
+    "last_seen": "2026-10-31",
+    "streak": 2
    },
    "DietrichGebert/ponytail": {
     "best_rank": 3,
@@ -80,17 +80,17 @@
    },
    "HKUDS/DeepTutor": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-30",
-    "streak": 3
+    "last_seen": "2026-10-31",
+    "streak": 4
    },
    "JetBrains/thinkrail": {
     "best_rank": 1,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-30",
-    "streak": 5
+    "last_seen": "2026-10-31",
+    "streak": 6
    },
    "JuliusBrussee/caveman": {
     "best_rank": 4,
@@ -185,9 +185,9 @@
    },
    "Renhuai123/ziwei-doushu": {
     "best_rank": 5,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-31",
     "streak": 1
    },
    "Robbyant/lingbot-map": {
@@ -287,6 +287,13 @@
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-24",
     "streak": 2
+   },
+   "anthropics/skills": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "streak": 1
    },
    "antirez/ds4": {
     "best_rank": 15,
@@ -415,10 +422,10 @@
     "streak": 3
    },
    "expo/skills": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 6,
+    "days": 2,
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-31",
     "streak": 1
    },
    "fastapi/fastapi": {
@@ -505,6 +512,13 @@
     "last_seen": "2026-10-25",
     "streak": 1
    },
+   "lightpanda-io/browser": {
+    "best_rank": 15,
+    "days": 1,
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "streak": 1
+   },
    "lightseekorg/tokenspeed": {
     "best_rank": 11,
     "days": 1,
@@ -535,9 +549,9 @@
    },
    "macro-inc/macro": {
     "best_rank": 5,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-31",
     "streak": 1
    },
    "makecindy/cindy": {
@@ -556,10 +570,10 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-11",
-    "streak": 5
+    "last_seen": "2026-10-31",
+    "streak": 1
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -576,11 +590,11 @@
     "streak": 1
    },
    "milind-soni/OpenMausBot": {
-    "best_rank": 5,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "streak": 1
+    "last_seen": "2026-10-31",
+    "streak": 2
    },
    "mksglu/context-mode": {
     "best_rank": 3,
@@ -647,10 +661,10 @@
    },
    "obra/superpowers": {
     "best_rank": 2,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-30",
-    "streak": 3
+    "last_seen": "2026-10-31",
+    "streak": 4
    },
    "open-webui/open-webui": {
     "best_rank": 5,
@@ -661,10 +675,10 @@
    },
    "pbakaus/impeccable": {
     "best_rank": 2,
-    "days": 8,
+    "days": 9,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-30",
-    "streak": 6
+    "last_seen": "2026-10-31",
+    "streak": 7
    },
    "php/php-src": {
     "best_rank": 1,
@@ -675,10 +689,10 @@
    },
    "pingdotgg/t3code": {
     "best_rank": 4,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-06",
-    "streak": 2
+    "last_seen": "2026-10-31",
+    "streak": 1
    },
    "pollen-robotics/microduck": {
     "best_rank": 5,
@@ -758,18 +772,18 @@
     "streak": 4
    },
    "thedotmack/claude-mem": {
-    "best_rank": 2,
-    "days": 6,
+    "best_rank": 1,
+    "days": 7,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-30",
-    "streak": 1
+    "last_seen": "2026-10-31",
+    "streak": 2
    },
    "togg53192-cmd/jailbreaks": {
     "best_rank": 10,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-30",
-    "streak": 3
+    "last_seen": "2026-10-31",
+    "streak": 4
    },
    "trycua/cua": {
     "best_rank": 10,
