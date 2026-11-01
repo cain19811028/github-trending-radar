@@ -44,10 +44,10 @@
     "streak": 3
    },
    "Donchitos/Claude-Code-Game-Studios": {
-    "best_rank": 11,
-    "days": 1,
+    "best_rank": 3,
+    "days": 2,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-01",
     "streak": 1
    },
    "DuarteSantos8/openGym": {
@@ -80,10 +80,10 @@
    },
    "HKUDS/DeepTutor": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-31",
-    "streak": 4
+    "last_seen": "2026-11-01",
+    "streak": 5
    },
    "JetBrains/thinkrail": {
     "best_rank": 1,
@@ -176,6 +176,13 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "Orkas-AI/Orkas": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "streak": 1
+   },
    "Panniantong/Agent-Reach": {
     "best_rank": 6,
     "days": 3,
@@ -185,10 +192,10 @@
    },
    "Renhuai123/ziwei-doushu": {
     "best_rank": 5,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-31",
-    "streak": 1
+    "last_seen": "2026-11-01",
+    "streak": 2
    },
    "Robbyant/lingbot-map": {
     "best_rank": 10,
@@ -209,6 +216,13 @@
     "days": 1,
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
+    "streak": 1
+   },
+   "THU-MAIC/OpenMAIC": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
     "streak": 1
    },
    "TauricResearch/TradingAgents": {
@@ -329,6 +343,13 @@
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-12",
     "streak": 7
+   },
+   "bregman-arie/devops-exercises": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "streak": 1
    },
    "caddyserver/caddy": {
     "best_rank": 8,
@@ -513,11 +534,11 @@
     "streak": 1
    },
    "lightpanda-io/browser": {
-    "best_rank": 15,
-    "days": 1,
+    "best_rank": 9,
+    "days": 2,
     "first_seen": "2026-10-31",
-    "last_seen": "2026-10-31",
-    "streak": 1
+    "last_seen": "2026-11-01",
+    "streak": 2
    },
    "lightseekorg/tokenspeed": {
     "best_rank": 11,
@@ -570,10 +591,10 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 6,
+    "days": 7,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-31",
-    "streak": 1
+    "last_seen": "2026-11-01",
+    "streak": 2
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -591,10 +612,10 @@
    },
    "milind-soni/OpenMausBot": {
     "best_rank": 2,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-31",
-    "streak": 2
+    "last_seen": "2026-11-01",
+    "streak": 3
    },
    "mksglu/context-mode": {
     "best_rank": 3,
@@ -661,10 +682,10 @@
    },
    "obra/superpowers": {
     "best_rank": 2,
-    "days": 6,
+    "days": 7,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-31",
-    "streak": 4
+    "last_seen": "2026-11-01",
+    "streak": 5
    },
    "open-webui/open-webui": {
     "best_rank": 5,
@@ -675,10 +696,10 @@
    },
    "pbakaus/impeccable": {
     "best_rank": 2,
-    "days": 9,
+    "days": 10,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-31",
-    "streak": 7
+    "last_seen": "2026-11-01",
+    "streak": 8
    },
    "php/php-src": {
     "best_rank": 1,
@@ -689,10 +710,10 @@
    },
    "pingdotgg/t3code": {
     "best_rank": 4,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-31",
-    "streak": 1
+    "last_seen": "2026-11-01",
+    "streak": 2
    },
    "pollen-robotics/microduck": {
     "best_rank": 5,
@@ -773,10 +794,10 @@
    },
    "thedotmack/claude-mem": {
     "best_rank": 1,
-    "days": 7,
+    "days": 8,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-31",
-    "streak": 2
+    "last_seen": "2026-11-01",
+    "streak": 3
    },
    "togg53192-cmd/jailbreaks": {
     "best_rank": 10,
@@ -819,6 +840,13 @@
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-22",
     "streak": 2
+   },
+   "vorssaint/vorssaint-utils": {
+    "best_rank": 14,
+    "days": 1,
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "streak": 1
    },
    "vxcontrol/pentagi": {
     "best_rank": 8,
