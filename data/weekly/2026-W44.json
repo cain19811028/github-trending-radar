@@ -1,0 +1,295 @@
+{
+ "week": "2026-W44",
+ "fetched_at": "2026-11-02T08:00:34+08:00",
+ "boards": {
+  "all": [
+   {
+    "rank": 1,
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 44849,
+    "forks": 2383,
+    "stars_this_week": 11566,
+    "created_at": "2026-04-27T20:47:10Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 2,
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "stars": 99294,
+    "forks": 5871,
+    "stars_this_week": 12017,
+    "created_at": "2025-11-16T01:52:04Z",
+    "topics": [
+     "agent-skills",
+     "ai",
+     "anti-slop",
+     "design",
+     "slop"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 3,
+    "name": "AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+    "language": "Python",
+    "stars": 25520,
+    "forks": 3357,
+    "stars_this_week": 5034,
+    "created_at": "2026-02-07T08:17:38Z",
+    "topics": [
+     "claude-code",
+     "seo",
+     "ai",
+     "ai-seo",
+     "claude-code-skill",
+     "marketing-automation",
+     "open-source"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 4,
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "stars": 109209,
+    "forks": 9563,
+    "stars_this_week": 5852,
+    "created_at": "2025-08-31T20:50:03Z",
+    "topics": [
+     "ai",
+     "ai-agents",
+     "ai-memory",
+     "anthropic",
+     "artificial-intelligence",
+     "claude",
+     "claude-agent-sdk",
+     "claude-agents",
+     "claude-code",
+     "claude-code-plugin",
+     "claude-skills",
+     "long-term-memory",
+     "mem0",
+     "openmemory",
+     "supermemory",
+     "chromadb",
+     "sqlite",
+     "embeddings",
+     "memory-engine",
+     "rag"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 5,
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 56347,
+    "forks": 3673,
+    "stars_this_week": 10069,
+    "created_at": "2026-06-18T14:08:44Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 310623,
+    "forks": 27648,
+    "stars_this_week": 5896,
+    "created_at": "2025-10-09T19:45:18Z",
+    "topics": [
+     "ai",
+     "brainstorming",
+     "coding",
+     "obra",
+     "sdlc",
+     "skills",
+     "superpowers",
+     "subagent-driven-development"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 7,
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 6964,
+    "forks": 391,
+    "stars_this_week": 5760,
+    "created_at": "2026-07-08T07:40:43Z",
+    "topics": [
+     "agent",
+     "agent-skills",
+     "agentic-ai",
+     "agentic-workflow",
+     "ai-coding",
+     "ai-tools",
+     "spec-driven",
+     "spec-driven-coding",
+     "spec-driven-development",
+     "vibe-coding",
+     "vibecoding",
+     "pi-agent",
+     "pi-agent-extension"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 8,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 37912,
+    "forks": 8910,
+    "stars_this_week": 6926,
+    "created_at": "2026-02-08T23:46:22Z",
+    "topics": [],
+    "is_ai": false
+   },
+   {
+    "rank": 9,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "stars": 227981,
+    "forks": 22742,
+    "stars_this_week": 4459,
+    "created_at": "2026-01-27T03:53:13Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 10,
+    "name": "jakubkrehel/skills",
+    "description": "A collection of agent skills that help you build great interfaces.",
+    "language": "Markdown",
+    "stars": 10064,
+    "forks": 391,
+    "stars_this_week": 1607,
+    "created_at": "2026-07-10T08:58:36Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 11,
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": 119517,
+    "forks": 22868,
+    "stars_this_week": 5432,
+    "created_at": "2024-12-28T03:31:08Z",
+    "topics": [
+     "agent",
+     "finance",
+     "llm",
+     "multiagent",
+     "trading"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 12,
+    "name": "Leonxlnx/taste-skill",
+    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+    "language": "JavaScript",
+    "stars": 107760,
+    "forks": 7279,
+    "stars_this_week": 5336,
+    "created_at": "2026-02-19T21:44:05Z",
+    "topics": [
+     "claude-code",
+     "codex",
+     "frontend",
+     "agent-skills",
+     "ai-agents",
+     "anti-slop",
+     "cursor",
+     "design-system",
+     "landing-page",
+     "ui-design",
+     "web-design"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 13,
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 186356,
+    "forks": 22020,
+    "stars_this_week": 2600,
+    "created_at": "2025-09-22T15:53:31Z",
+    "topics": [
+     "agent-skills"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 14,
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 294788,
+    "forks": 43635,
+    "stars_this_week": 6299,
+    "created_at": "2026-01-18T00:51:51Z",
+    "topics": [
+     "ai-agents",
+     "anthropic",
+     "claude",
+     "claude-code",
+     "developer-tools",
+     "llm",
+     "mcp",
+     "productivity"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 15,
+    "name": "YuJunZhiXue/dsh-purge",
+    "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+    "language": "JavaScript",
+    "stars": 15332,
+    "forks": 3520,
+    "stars_this_week": 6644,
+    "created_at": "2026-08-19T07:41:12Z",
+    "topics": [
+     "dsh-plugin",
+     "dsh-plugins",
+     "llm-jailbreak",
+     "harness-jailbreak",
+     "jailbreak",
+     "deepseek",
+     "deepseek-harness"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 16,
+    "name": "ghostty-org/ghostty",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "language": "Zig",
+    "stars": 63175,
+    "forks": 3817,
+    "stars_this_week": 589,
+    "created_at": "2022-03-29T17:38:26Z",
+    "topics": [],
+    "is_ai": false
+   }
+  ]
+ }
+}
