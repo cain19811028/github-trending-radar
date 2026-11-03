@@ -1,60 +1,55 @@
-# 🔭 GitHub Trending Radar — 2026-11-02
+# 🔭 GitHub Trending Radar — 2026-11-03
 
-17 trending · 9 AI-related · 8 new today
+15 trending · 11 AI-related · 7 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +324 / 494,568 | A collective list of free APIs |
-| 7 | [cjpais/Handy](https://github.com/cjpais/Handy) | Rust | +339 / 36,520 | A free, open source, and extensible speech-to-text application that works completely offl… |
-| 9 | 🤖 [kornia/kornia](https://github.com/kornia/kornia) | Python | +101 / 11,773 | 🐍 Geometric Computer Vision Library for Spatial AI |
-| 10 | 🤖 [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | +446 / 6,198 | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK i… |
-| 12 | [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | +1,179 / 3,237 | Local voice dictation for mac, windows and linux |
-| 15 | 🤖 [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Jupyter Notebook | +1,191 / 40,201 | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
-| 16 | 🤖 [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | +242 / 15,381 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models local… |
-| 17 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | +38 / 39,355 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that d… |
+| 1 | 🤖 [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,275 / 9,569 | Computer use CLI for AI agents |
+| 3 | 🤖 [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +706 / 92,812 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… |
+| 10 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +675 / 46,515 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed… |
+| 12 | 🤖 [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +77 / 10,021 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 13 | 🤖 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +412 / 110,377 | The open-source app everyone uses to manage agents at work |
+| 14 | 🤖 [karpathy/nanochat](https://github.com/karpathy/nanochat) | Python | +321 / 59,874 | The best ChatGPT that $100 can buy. |
+| 15 | 🤖 [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +420 / 38,082 | Training-free language model modification: Remove censorship, suppress slop, reduce sycop… |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | +1,179 / 3,237 | +36% in a day | Local voice dictation for mac, windows and linux |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,275 / 9,569 | +24% in a day | Computer use CLI for AI agents |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,526 / 109,209 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … |
-| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +825 / 40,089 | Lightpanda: the headless browser designed for AI and automation |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +922 / 10,497 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 8 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +967 / 32,235 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… |
-| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | +101 / 11,773 | 🐍 Geometric Computer Vision Library for Spatial AI |
-| 10 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | +446 / 6,198 | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK i… |
-| 13 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +175 / 9,506 | Open-source AI coworkers that each get a computer of their own: a browser, files and tool… |
-| 15 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Jupyter Notebook | +1,191 / 40,201 | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
-| 16 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | +242 / 15,381 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models local… |
+| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,275 / 9,569 | Computer use CLI for AI agents |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,803 / 110,722 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +706 / 92,812 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… |
+| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +1,379 / 33,524 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… |
+| 6 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | +653 / 16,035 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models local… |
+| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | +412 / 12,122 | 🐍 Geometric Computer Vision Library for Spatial AI |
+| 11 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +858 / 310,206 | Skills for Real Engineers. Straight from my .agents directory. |
+| 12 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +77 / 10,021 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 13 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +412 / 110,377 | The open-source app everyone uses to manage agents at work |
+| 14 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | Python | +321 / 59,874 | The best ChatGPT that $100 can buy. |
+| 15 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +420 / 38,082 | Training-free language model modification: Remove censorship, suppress slop, reduce sycop… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +630 / 45,356 | Kronos: A Foundation Model for the Language of Financial Markets |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3,094 / 37,913 |  |
-| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +324 / 494,568 | A collective list of free APIs |
-| 7 | [cjpais/Handy](https://github.com/cjpais/Handy) | Rust | +339 / 36,520 | A free, open source, and extensible speech-to-text application that works completely offl… |
-| 11 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +941 / 13,073 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 12 | [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | +1,179 / 3,237 | Local voice dictation for mac, windows and linux |
-| 14 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | — | +726 / 12,926 | LIST OF ALL MY JAILBREAKS |
-| 17 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | +38 / 39,355 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that d… |
+| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | +509 / 39,909 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that d… |
+| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3,229 / 41,830 |  |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +857 / 46,005 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 10 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +675 / 46,515 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed… |
 
 ## 📌 On a Streak
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 4 days in a row (9 days total, best rank #1)
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — 4 days in a row (4 days total, best rank #2)
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — 3 days in a row (3 days total, best rank #2)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — 3 days in a row (5 days total, best rank #4)
-- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) — 3 days in a row (5 days total, best rank #5)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 5 days in a row (10 days total, best rank #1)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — 4 days in a row (6 days total, best rank #4)
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — 3 days in a row (4 days total, best rank #3)
 
 ---
 
