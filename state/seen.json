@@ -38,10 +38,10 @@
    },
    "D4Vinci/Scrapling": {
     "best_rank": 3,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "streak": 1
+    "last_seen": "2026-11-04",
+    "streak": 2
    },
    "DietrichGebert/ponytail": {
     "best_rank": 3,
@@ -52,10 +52,10 @@
    },
    "Donchitos/Claude-Code-Game-Studios": {
     "best_rank": 3,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-03",
-    "streak": 3
+    "last_seen": "2026-11-04",
+    "streak": 4
    },
    "DuarteSantos8/openGym": {
     "best_rank": 9,
@@ -114,11 +114,11 @@
     "streak": 1
    },
    "JustVugg/colibri": {
-    "best_rank": 10,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "streak": 1
+    "last_seen": "2026-11-04",
+    "streak": 2
    },
    "K-Dense-AI/scientific-agent-skills": {
     "best_rank": 2,
@@ -253,6 +253,13 @@
     "last_seen": "2026-10-27",
     "streak": 2
    },
+   "Usagi-org/ai-goofish-monitor": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "streak": 1
+   },
    "addyosmani/agent-skills": {
     "best_rank": 6,
     "days": 3,
@@ -296,10 +303,10 @@
     "streak": 3
    },
    "anomalyco/hex": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 10,
+    "days": 2,
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-04",
     "streak": 1
    },
    "anomalyco/opencode": {
@@ -498,6 +505,13 @@
     "last_seen": "2026-10-23",
     "streak": 1
    },
+   "floci-io/floci": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "streak": 1
+   },
    "flutter/flutter": {
     "best_rank": 7,
     "days": 1,
@@ -654,17 +668,17 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 8,
+    "days": 9,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-03",
-    "streak": 1
+    "last_seen": "2026-11-04",
+    "streak": 2
    },
    "max-sixty/worktrunk": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 3,
+    "days": 2,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "streak": 1
+    "last_seen": "2026-11-04",
+    "streak": 2
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -765,11 +779,11 @@
     "streak": 1
    },
    "p-e-w/heretic": {
-    "best_rank": 15,
-    "days": 1,
+    "best_rank": 6,
+    "days": 2,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "streak": 1
+    "last_seen": "2026-11-04",
+    "streak": 2
    },
    "paperclipai/paperclip": {
     "best_rank": 13,
@@ -850,10 +864,17 @@
    },
    "shiyu-coder/Kronos": {
     "best_rank": 3,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-20",
-    "last_seen": "2026-11-03",
-    "streak": 2
+    "last_seen": "2026-11-04",
+    "streak": 3
+   },
+   "spotify/portal-ai-plugins": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "streak": 1
    },
    "stablyai/orca": {
     "best_rank": 3,
@@ -892,10 +913,10 @@
    },
    "thedotmack/claude-mem": {
     "best_rank": 1,
-    "days": 10,
+    "days": 11,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-11-03",
-    "streak": 5
+    "last_seen": "2026-11-04",
+    "streak": 6
    },
    "togg53192-cmd/jailbreaks": {
     "best_rank": 10,
@@ -927,10 +948,10 @@
    },
    "vercel-labs/agent-desktop": {
     "best_rank": 1,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "streak": 1
+    "last_seen": "2026-11-04",
+    "streak": 2
    },
    "vercel-labs/skills": {
     "best_rank": 6,
