@@ -38,10 +38,10 @@
    },
    "D4Vinci/Scrapling": {
     "best_rank": 3,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-04",
-    "streak": 2
+    "last_seen": "2026-11-05",
+    "streak": 3
    },
    "DietrichGebert/ponytail": {
     "best_rank": 3,
@@ -70,6 +70,13 @@
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-09",
     "streak": 2
+   },
+   "FareedKhan-dev/kimi-k3-in-c": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "streak": 1
    },
    "FlashML-org/FreeToken": {
     "best_rank": 6,
@@ -105,6 +112,13 @@
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-31",
     "streak": 6
+   },
+   "JiaFeiMiao-K-Cat/DiscImageStudio": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "streak": 1
    },
    "JuliusBrussee/caveman": {
     "best_rank": 4,
@@ -155,6 +169,13 @@
     "last_seen": "2026-10-23",
     "streak": 1
    },
+   "MichaelCade/90DaysOfDevOps": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "streak": 1
+   },
    "NVIDIA/OpenShell": {
     "best_rank": 2,
     "days": 2,
@@ -167,6 +188,13 @@
     "days": 1,
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
+    "streak": 1
+   },
+   "NVIDIA/auto-ontology": {
+    "best_rank": 1,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
     "streak": 1
    },
    "NationalSecurityAgency/ghidra": {
@@ -252,6 +280,20 @@
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-27",
     "streak": 2
+   },
+   "The-PR-Agent/pr-agent": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "streak": 1
+   },
+   "Thysrael/Horizon": {
+    "best_rank": 15,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "streak": 1
    },
    "Usagi-org/ai-goofish-monitor": {
     "best_rank": 9,
@@ -506,11 +548,11 @@
     "streak": 1
    },
    "floci-io/floci": {
-    "best_rank": 8,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-04",
-    "streak": 1
+    "last_seen": "2026-11-05",
+    "streak": 2
    },
    "flutter/flutter": {
     "best_rank": 7,
@@ -520,10 +562,10 @@
     "streak": 1
    },
    "garrytan/gstack": {
-    "best_rank": 13,
-    "days": 1,
+    "best_rank": 10,
+    "days": 2,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-11-05",
     "streak": 1
    },
    "getsentry/sentry": {
@@ -531,6 +573,13 @@
     "days": 1,
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
+    "streak": 1
+   },
+   "github/spec-kit": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
     "streak": 1
    },
    "gitroomhq/postiz-app": {
@@ -545,6 +594,13 @@
     "days": 1,
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
+    "streak": 1
+   },
+   "harry0703/MoneyPrinterTurbo": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
     "streak": 1
    },
    "headroomlabs-ai/headroom": {
@@ -668,17 +724,17 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 9,
+    "days": 10,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-04",
-    "streak": 2
+    "last_seen": "2026-11-05",
+    "streak": 3
    },
    "max-sixty/worktrunk": {
-    "best_rank": 3,
-    "days": 2,
+    "best_rank": 2,
+    "days": 3,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-04",
-    "streak": 2
+    "last_seen": "2026-11-05",
+    "streak": 3
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -862,6 +918,13 @@
     "last_seen": "2026-10-21",
     "streak": 6
    },
+   "scenario-labs/skills": {
+    "best_rank": 16,
+    "days": 1,
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "streak": 1
+   },
    "shiyu-coder/Kronos": {
     "best_rank": 3,
     "days": 6,
@@ -913,10 +976,10 @@
    },
    "thedotmack/claude-mem": {
     "best_rank": 1,
-    "days": 11,
+    "days": 12,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-11-04",
-    "streak": 6
+    "last_seen": "2026-11-05",
+    "streak": 7
    },
    "togg53192-cmd/jailbreaks": {
     "best_rank": 10,
@@ -948,10 +1011,10 @@
    },
    "vercel-labs/agent-desktop": {
     "best_rank": 1,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-04",
-    "streak": 2
+    "last_seen": "2026-11-05",
+    "streak": 3
    },
    "vercel-labs/skills": {
     "best_rank": 6,

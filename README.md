@@ -1,49 +1,62 @@
-# 🔭 GitHub Trending Radar — 2026-11-04
+# 🔭 GitHub Trending Radar — 2026-11-05
 
-13 trending · 10 AI-related · 3 new today
+16 trending · 13 AI-related · 9 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 7 | 🤖 [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | TypeScript | +91 / 3,030 |  |
-| 8 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +482 / 28,742 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 9 | 🤖 [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +228 / 16,339 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
+| 1 | 🤖 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 / 4,901 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
+| 7 | 🤖 [github/spec-kit](https://github.com/github/spec-kit) | Python | +808 / 147,286 | 💫 Toolkit to help you get started with SDD or any other process! |
+| 8 | 🤖 [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | Python | +280 / 14,743 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
+| 9 | 🤖 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +617 / 138,930 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with … |
+| 11 | 🤖 [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | +351 / 10,274 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Po… |
+| 12 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +1,778 / 6,573 |  |
+| 13 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Shell | +97 / 30,401 | This repository started out as a learning in public project for myself and has now become… |
+| 15 | 🤖 [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | Python | +121 / 12,474 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI … |
+| 16 | 🤖 [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +224 / 2,414 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +3,791 / 12,666 | +30% in a day | Computer use CLI for AI agents |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 / 4,901 | +42% in a day | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
+| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +1,778 / 6,573 | +27% in a day |  |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,470 / 15,024 | +16% in a day | Computer use CLI for AI agents |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,139 / 111,871 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … |
-| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +3,791 / 12,666 | Computer use CLI for AI agents |
-| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +438 / 10,466 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +802 / 47,236 | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vu… |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,164 / 311,418 | Skills for Real Engineers. Straight from my .agents directory. |
-| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +701 / 38,767 | Training-free language model modification: Remove censorship, suppress slop, reduce sycop… |
-| 7 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | TypeScript | +91 / 3,030 |  |
-| 9 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +228 / 16,339 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
-| 11 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1,658 / 94,781 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… |
-| 13 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +1,182 / 34,638 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… |
+| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 / 4,901 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
+| 2 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +531 / 11,009 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,379 / 313,276 | Skills for Real Engineers. Straight from my .agents directory. |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,172 / 112,821 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,470 / 15,024 | Computer use CLI for AI agents |
+| 7 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +808 / 147,286 | 💫 Toolkit to help you get started with SDD or any other process! |
+| 8 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | Python | +280 / 14,743 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +617 / 138,930 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with … |
+| 10 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +290 / 139,317 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer… |
+| 11 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | +351 / 10,274 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Po… |
+| 14 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +2,005 / 96,492 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… |
+| 15 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | Python | +121 / 12,474 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI … |
+| 16 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +224 / 2,414 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 8 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +482 / 28,742 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 10 | [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | +410 / 4,564 | Local voice dictation for mac, windows and linux |
-| 12 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +503 / 46,503 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 4 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +1,090 / 29,584 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 12 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +1,778 / 6,573 |  |
+| 13 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Shell | +97 / 30,401 | This repository started out as a learning in public project for myself and has now become… |
 
 ## 📌 On a Streak
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 6 days in a row (11 days total, best rank #1)
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — 4 days in a row (5 days total, best rank #3)
-- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — 3 days in a row (6 days total, best rank #3)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 7 days in a row (12 days total, best rank #1)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) — 3 days in a row (3 days total, best rank #2)
+- [mattpocock/skills](https://github.com/mattpocock/skills) — 3 days in a row (10 days total, best rank #2)
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — 3 days in a row (3 days total, best rank #1)
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 3 days in a row (3 days total, best rank #3)
 
 ---
 
