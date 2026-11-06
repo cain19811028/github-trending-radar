@@ -1,62 +1,58 @@
-# 🔭 GitHub Trending Radar — 2026-11-05
+# 🔭 GitHub Trending Radar — 2026-11-06
 
-16 trending · 13 AI-related · 9 new today
+15 trending · 12 AI-related · 5 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | 🤖 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 / 4,901 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
-| 7 | 🤖 [github/spec-kit](https://github.com/github/spec-kit) | Python | +808 / 147,286 | 💫 Toolkit to help you get started with SDD or any other process! |
-| 8 | 🤖 [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | Python | +280 / 14,743 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
-| 9 | 🤖 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +617 / 138,930 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with … |
-| 11 | 🤖 [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | +351 / 10,274 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Po… |
-| 12 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +1,778 / 6,573 |  |
-| 13 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Shell | +97 / 30,401 | This repository started out as a learning in public project for myself and has now become… |
-| 15 | 🤖 [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | Python | +121 / 12,474 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI … |
-| 16 | 🤖 [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +224 / 2,414 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
+| 8 | [lz4/lz4](https://github.com/lz4/lz4) | C | +23 / 12,368 | Extremely Fast Compression algorithm |
+| 9 | 🤖 [google/skills](https://github.com/google/skills) | Python | +211 / 22,356 | Agent Skills for Google products and technologies |
+| 10 | 🤖 [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +150 / 45,862 | Browser automation CLI for AI agents |
+| 12 | 🤖 [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | JavaScript | +175 / 14,114 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, imag… |
+| 13 | 🤖 [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +223 / 55,891 | Open-Source Frontier Voice AI |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 / 4,901 | +42% in a day | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
-| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +1,778 / 6,573 | +27% in a day |  |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,470 / 15,024 | +16% in a day | Computer use CLI for AI agents |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,679 / 7,266 | +37% in a day | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
+| [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +667 / 3,039 | +22% in a day | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
+| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +984 / 7,252 | +14% in a day |  |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,173 / 16,800 | +13% in a day | Computer use CLI for AI agents |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 / 4,901 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
-| 2 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +531 / 11,009 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,379 / 313,276 | Skills for Real Engineers. Straight from my .agents directory. |
-| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,172 / 112,821 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … |
-| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,470 / 15,024 | Computer use CLI for AI agents |
-| 7 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +808 / 147,286 | 💫 Toolkit to help you get started with SDD or any other process! |
-| 8 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | Python | +280 / 14,743 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
-| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +617 / 138,930 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with … |
-| 10 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +290 / 139,317 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer… |
-| 11 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | +351 / 10,274 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Po… |
-| 14 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +2,005 / 96,492 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… |
-| 15 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | Python | +121 / 12,474 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI … |
-| 16 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +224 / 2,414 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
+| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,679 / 7,266 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2,071 / 315,176 | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +612 / 139,928 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer… |
+| 4 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +240 / 17,508 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1,655 / 97,937 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,173 / 16,800 | Computer use CLI for AI agents |
+| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +546 / 11,500 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 9 | [google/skills](https://github.com/google/skills) | Python | +211 / 22,356 | Agent Skills for Google products and technologies |
+| 10 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +150 / 45,862 | Browser automation CLI for AI agents |
+| 11 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +667 / 3,039 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
+| 12 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | JavaScript | +175 / 14,114 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, imag… |
+| 13 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +223 / 55,891 | Open-Source Frontier Voice AI |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 4 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +1,090 / 29,584 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 12 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +1,778 / 6,573 |  |
-| 13 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Shell | +97 / 30,401 | This repository started out as a learning in public project for myself and has now become… |
+| 8 | [lz4/lz4](https://github.com/lz4/lz4) | C | +23 / 12,368 | Extremely Fast Compression algorithm |
+| 14 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +779 / 30,383 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 15 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +984 / 7,252 |  |
 
 ## 📌 On a Streak
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 7 days in a row (12 days total, best rank #1)
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) — 3 days in a row (3 days total, best rank #2)
-- [mattpocock/skills](https://github.com/mattpocock/skills) — 3 days in a row (10 days total, best rank #2)
-- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — 3 days in a row (3 days total, best rank #1)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 3 days in a row (3 days total, best rank #3)
+- [mattpocock/skills](https://github.com/mattpocock/skills) — 4 days in a row (11 days total, best rank #2)
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 4 days in a row (4 days total, best rank #3)
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — 4 days in a row (4 days total, best rank #1)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) — 4 days in a row (4 days total, best rank #2)
+- [floci-io/floci](https://github.com/floci-io/floci) — 3 days in a row (3 days total, best rank #4)
 
 ---
 

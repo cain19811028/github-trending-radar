@@ -29,6 +29,13 @@
     "last_seen": "2026-10-22",
     "streak": 4
    },
+   "ConardLi/garden-skills": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "streak": 1
+   },
    "CopilotKit/OpenBot": {
     "best_rank": 4,
     "days": 3,
@@ -38,10 +45,10 @@
    },
    "D4Vinci/Scrapling": {
     "best_rank": 3,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-05",
-    "streak": 3
+    "last_seen": "2026-11-06",
+    "streak": 4
    },
    "DietrichGebert/ponytail": {
     "best_rank": 3,
@@ -115,10 +122,10 @@
    },
    "JiaFeiMiao-K-Cat/DiscImageStudio": {
     "best_rank": 12,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05",
-    "streak": 1
+    "last_seen": "2026-11-06",
+    "streak": 2
    },
    "JuliusBrussee/caveman": {
     "best_rank": 4,
@@ -192,10 +199,10 @@
    },
    "NVIDIA/auto-ontology": {
     "best_rank": 1,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05",
-    "streak": 1
+    "last_seen": "2026-11-06",
+    "streak": 2
    },
    "NationalSecurityAgency/ghidra": {
     "best_rank": 9,
@@ -296,10 +303,10 @@
     "streak": 1
    },
    "Usagi-org/ai-goofish-monitor": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-06",
     "streak": 1
    },
    "addyosmani/agent-skills": {
@@ -549,10 +556,10 @@
    },
    "floci-io/floci": {
     "best_rank": 4,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05",
-    "streak": 2
+    "last_seen": "2026-11-06",
+    "streak": 3
    },
    "flutter/flutter": {
     "best_rank": 7,
@@ -562,11 +569,11 @@
     "streak": 1
    },
    "garrytan/gstack": {
-    "best_rank": 10,
-    "days": 2,
+    "best_rank": 3,
+    "days": 3,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-11-05",
-    "streak": 1
+    "last_seen": "2026-11-06",
+    "streak": 2
    },
    "getsentry/sentry": {
     "best_rank": 7,
@@ -594,6 +601,13 @@
     "days": 1,
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
+    "streak": 1
+   },
+   "google/skills": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
     "streak": 1
    },
    "harry0703/MoneyPrinterTurbo": {
@@ -701,6 +715,13 @@
     "last_seen": "2026-10-14",
     "streak": 3
    },
+   "lz4/lz4": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "streak": 1
+   },
    "macro-inc/macro": {
     "best_rank": 5,
     "days": 2,
@@ -724,17 +745,17 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 10,
+    "days": 11,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-05",
-    "streak": 3
+    "last_seen": "2026-11-06",
+    "streak": 4
    },
    "max-sixty/worktrunk": {
     "best_rank": 2,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-05",
-    "streak": 3
+    "last_seen": "2026-11-06",
+    "streak": 4
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -748,6 +769,13 @@
     "days": 1,
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
+    "streak": 1
+   },
+   "microsoft/VibeVoice": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
     "streak": 1
    },
    "milind-soni/OpenMausBot": {
@@ -919,11 +947,11 @@
     "streak": 6
    },
    "scenario-labs/skills": {
-    "best_rank": 16,
-    "days": 1,
+    "best_rank": 11,
+    "days": 2,
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05",
-    "streak": 1
+    "last_seen": "2026-11-06",
+    "streak": 2
    },
    "shiyu-coder/Kronos": {
     "best_rank": 3,
@@ -1009,12 +1037,19 @@
     "last_seen": "2026-10-10",
     "streak": 1
    },
+   "vercel-labs/agent-browser": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "streak": 1
+   },
    "vercel-labs/agent-desktop": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-05",
-    "streak": 3
+    "last_seen": "2026-11-06",
+    "streak": 4
    },
    "vercel-labs/skills": {
     "best_rank": 6,
