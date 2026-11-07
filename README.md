@@ -1,58 +1,61 @@
-# 🔭 GitHub Trending Radar — 2026-11-06
+# 🔭 GitHub Trending Radar — 2026-11-07
 
-15 trending · 12 AI-related · 5 new today
+17 trending · 4 AI-related · 12 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 8 | [lz4/lz4](https://github.com/lz4/lz4) | C | +23 / 12,368 | Extremely Fast Compression algorithm |
-| 9 | 🤖 [google/skills](https://github.com/google/skills) | Python | +211 / 22,356 | Agent Skills for Google products and technologies |
-| 10 | 🤖 [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +150 / 45,862 | Browser automation CLI for AI agents |
-| 12 | 🤖 [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | JavaScript | +175 / 14,114 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, imag… |
-| 13 | 🤖 [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +223 / 55,891 | Open-Source Frontier Voice AI |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 / 93,605 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from th… |
+| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | +142 / 59,022 | Ruby on Rails |
+| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | +37 / 37,871 | 🎥 Command line media player |
+| 6 | [react/react](https://github.com/react/react) | JavaScript | +248 / 252,248 | The library for web and native user interfaces. |
+| 7 | [angular/angular](https://github.com/angular/angular) | TypeScript | +135 / 101,353 | Deliver web apps with confidence 🚀 |
+| 8 | [symfony/symfony](https://github.com/symfony/symfony) | PHP | +128 / 31,425 | The Symfony PHP framework |
+| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | +148 / 67,176 | The Prometheus monitoring system and time series database. |
+| 11 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | +301 / 195,019 | Visual Studio Code |
+| 12 | [nushell/nushell](https://github.com/nushell/nushell) | Rust | +131 / 40,978 | A new type of shell |
+| 13 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | Go | +128 / 52,612 | Distributed reliable key-value store for the most critical data of a distributed system |
+| 14 | [openssl/openssl](https://github.com/openssl/openssl) | C | +26 / 31,283 | General purpose TLS and crypto library |
+| 17 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | +169 / 50,684 | An extremely fast Python linter and code formatter, written in Rust. |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,679 / 7,266 | +37% in a day | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
-| [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +667 / 3,039 | +22% in a day | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
-| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +984 / 7,252 | +14% in a day |  |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,173 / 16,800 | +13% in a day | Computer use CLI for AI agents |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,015 / 8,988 | +22% in a day | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,679 / 7,266 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2,071 / 315,176 | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +612 / 139,928 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer… |
-| 4 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +240 / 17,508 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1,655 / 97,937 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… |
-| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,173 / 16,800 | Computer use CLI for AI agents |
-| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +546 / 11,500 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| 9 | [google/skills](https://github.com/google/skills) | Python | +211 / 22,356 | Agent Skills for Google products and technologies |
-| 10 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +150 / 45,862 | Browser automation CLI for AI agents |
-| 11 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +667 / 3,039 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the… |
-| 12 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | JavaScript | +175 / 14,114 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, imag… |
-| 13 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +223 / 55,891 | Open-Source Frontier Voice AI |
+| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,015 / 8,988 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… |
+| 10 | [google/skills](https://github.com/google/skills) | Python | +534 / 22,822 | Agent Skills for Google products and technologies |
+| 15 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2,070 / 316,687 | Skills for Real Engineers. Straight from my .agents directory. |
+| 16 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,548 / 63,939 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 8 | [lz4/lz4](https://github.com/lz4/lz4) | C | +23 / 12,368 | Extremely Fast Compression algorithm |
-| 14 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +779 / 30,383 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 15 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +984 / 7,252 |  |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 / 93,605 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from th… |
+| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | +142 / 59,022 | Ruby on Rails |
+| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | +37 / 37,871 | 🎥 Command line media player |
+| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +192 / 121,436 | Empowering everyone to build reliable and efficient software. |
+| 6 | [react/react](https://github.com/react/react) | JavaScript | +248 / 252,248 | The library for web and native user interfaces. |
+| 7 | [angular/angular](https://github.com/angular/angular) | TypeScript | +135 / 101,353 | Deliver web apps with confidence 🚀 |
+| 8 | [symfony/symfony](https://github.com/symfony/symfony) | PHP | +128 / 31,425 | The Symfony PHP framework |
+| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | +148 / 67,176 | The Prometheus monitoring system and time series database. |
+| 11 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | +301 / 195,019 | Visual Studio Code |
+| 12 | [nushell/nushell](https://github.com/nushell/nushell) | Rust | +131 / 40,978 | A new type of shell |
+| 13 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | Go | +128 / 52,612 | Distributed reliable key-value store for the most critical data of a distributed system |
+| 14 | [openssl/openssl](https://github.com/openssl/openssl) | C | +26 / 31,283 | General purpose TLS and crypto library |
+| 17 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | +169 / 50,684 | An extremely fast Python linter and code formatter, written in Rust. |
 
 ## 📌 On a Streak
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) — 4 days in a row (11 days total, best rank #2)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 4 days in a row (4 days total, best rank #3)
-- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — 4 days in a row (4 days total, best rank #1)
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) — 4 days in a row (4 days total, best rank #2)
-- [floci-io/floci](https://github.com/floci-io/floci) — 3 days in a row (3 days total, best rank #4)
+- [mattpocock/skills](https://github.com/mattpocock/skills) — 5 days in a row (12 days total, best rank #2)
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) — 3 days in a row (3 days total, best rank #1)
 
 ---
 
