@@ -394,10 +394,10 @@
     "streak": 2
    },
    "anthropics/skills": {
-    "best_rank": 11,
-    "days": 1,
+    "best_rank": 5,
+    "days": 2,
     "first_seen": "2026-10-31",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-08",
     "streak": 1
    },
    "antirez/ds4": {
@@ -408,11 +408,11 @@
     "streak": 1
    },
    "astral-sh/ruff": {
-    "best_rank": 17,
-    "days": 1,
+    "best_rank": 10,
+    "days": 2,
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
-    "streak": 1
+    "last_seen": "2026-11-08",
+    "streak": 2
    },
    "aws/agent-toolkit-for-aws": {
     "best_rank": 3,
@@ -500,10 +500,10 @@
    },
    "cloudflare/security-audit-skill": {
     "best_rank": 1,
-    "days": 8,
+    "days": 9,
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-07",
-    "streak": 1
+    "last_seen": "2026-11-08",
+    "streak": 2
    },
    "coollabsio/coolify": {
     "best_rank": 9,
@@ -538,6 +538,13 @@
     "days": 1,
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
+    "streak": 1
+   },
+   "dsx-ai-factory/nvke": {
+    "best_rank": 15,
+    "days": 1,
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
     "streak": 1
    },
    "earthtojake/text-to-cad": {
@@ -625,11 +632,11 @@
     "streak": 1
    },
    "google/skills": {
-    "best_rank": 9,
-    "days": 2,
+    "best_rank": 3,
+    "days": 3,
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
-    "streak": 2
+    "last_seen": "2026-11-08",
+    "streak": 3
    },
    "harry0703/MoneyPrinterTurbo": {
     "best_rank": 9,
@@ -766,10 +773,10 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 12,
+    "days": 13,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-07",
-    "streak": 5
+    "last_seen": "2026-11-08",
+    "streak": 6
    },
    "max-sixty/worktrunk": {
     "best_rank": 2,
@@ -777,6 +784,20 @@
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-06",
     "streak": 4
+   },
+   "mbillow/localthings": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "streak": 1
+   },
+   "meta/astryx": {
+    "best_rank": 6,
+    "days": 1,
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "streak": 1
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -808,10 +829,10 @@
    },
    "milind-soni/OpenMausBot": {
     "best_rank": 2,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-02",
-    "streak": 4
+    "last_seen": "2026-11-08",
+    "streak": 1
    },
    "mksglu/context-mode": {
     "best_rank": 3,
@@ -961,11 +982,11 @@
     "streak": 3
    },
    "prometheus/prometheus": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 7,
+    "days": 2,
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
-    "streak": 1
+    "last_seen": "2026-11-08",
+    "streak": 2
    },
    "public-apis/public-apis": {
     "best_rank": 6,
@@ -986,6 +1007,13 @@
     "days": 1,
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
+    "streak": 1
+   },
+   "ranxianglei/billion-context": {
+    "best_rank": 14,
+    "days": 1,
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
     "streak": 1
    },
    "react/react": {
@@ -1022,6 +1050,13 @@
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-06",
     "streak": 2
+   },
+   "sherlock-project/sherlock": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "streak": 1
    },
    "shiyu-coder/Kronos": {
     "best_rank": 3,
@@ -1063,6 +1098,13 @@
     "days": 1,
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
+    "streak": 1
+   },
+   "tailwindlabs/tailwindcss": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
     "streak": 1
    },
    "tensorflow/tensorflow": {
@@ -1115,10 +1157,10 @@
     "streak": 1
    },
    "vercel-labs/agent-browser": {
-    "best_rank": 10,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "streak": 1
    },
    "vercel-labs/agent-desktop": {
@@ -1186,10 +1228,10 @@
    },
    "zed-industries/zed": {
     "best_rank": 1,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
-    "streak": 1
+    "last_seen": "2026-11-08",
+    "streak": 2
    }
   },
   "go": {
