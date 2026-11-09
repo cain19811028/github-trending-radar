@@ -386,6 +386,13 @@
     "last_seen": "2026-10-19",
     "streak": 4
    },
+   "anthropics/claude-quickstarts": {
+    "best_rank": 4,
+    "days": 1,
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "streak": 1
+   },
    "anthropics/knowledge-work-plugins": {
     "best_rank": 2,
     "days": 6,
@@ -395,10 +402,10 @@
    },
    "anthropics/skills": {
     "best_rank": 5,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-08",
-    "streak": 1
+    "last_seen": "2026-11-09",
+    "streak": 2
    },
    "antirez/ds4": {
     "best_rank": 15,
@@ -541,11 +548,11 @@
     "streak": 1
    },
    "dsx-ai-factory/nvke": {
-    "best_rank": 15,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-08",
-    "streak": 1
+    "last_seen": "2026-11-09",
+    "streak": 2
    },
    "earthtojake/text-to-cad": {
     "best_rank": 3,
@@ -623,6 +630,13 @@
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-28",
     "streak": 2
+   },
+   "google-deepmind/mujoco": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "streak": 1
    },
    "google-gemini/gemini-cli": {
     "best_rank": 8,
@@ -794,10 +808,10 @@
    },
    "meta/astryx": {
     "best_rank": 6,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-08",
-    "streak": 1
+    "last_seen": "2026-11-09",
+    "streak": 2
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -829,10 +843,10 @@
    },
    "milind-soni/OpenMausBot": {
     "best_rank": 2,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-08",
-    "streak": 1
+    "last_seen": "2026-11-09",
+    "streak": 2
    },
    "mksglu/context-mode": {
     "best_rank": 3,
@@ -1010,11 +1024,11 @@
     "streak": 1
    },
    "ranxianglei/billion-context": {
-    "best_rank": 14,
-    "days": 1,
+    "best_rank": 9,
+    "days": 2,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-08",
-    "streak": 1
+    "last_seen": "2026-11-09",
+    "streak": 2
    },
    "react/react": {
     "best_rank": 6,
@@ -1052,11 +1066,11 @@
     "streak": 2
    },
    "sherlock-project/sherlock": {
-    "best_rank": 8,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-08",
-    "streak": 1
+    "last_seen": "2026-11-09",
+    "streak": 2
    },
    "shiyu-coder/Kronos": {
     "best_rank": 3,
@@ -1158,10 +1172,10 @@
    },
    "vercel-labs/agent-browser": {
     "best_rank": 1,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-08",
-    "streak": 1
+    "last_seen": "2026-11-09",
+    "streak": 2
    },
    "vercel-labs/agent-desktop": {
     "best_rank": 1,

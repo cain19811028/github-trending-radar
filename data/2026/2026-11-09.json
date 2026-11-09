@@ -1,0 +1,159 @@
+{
+ "date": "2026-11-09",
+ "fetched_at": "2026-11-09T08:00:33+08:00",
+ "boards": {
+  "all": [
+   {
+    "rank": 1,
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 103406,
+    "forks": 12119,
+    "stars_today": 2373,
+    "created_at": "2018-12-24T14:30:48Z",
+    "topics": [
+     "osint",
+     "reconnaissance",
+     "linux",
+     "cli",
+     "sherlock",
+     "python3",
+     "redteam",
+     "tools",
+     "information-gathering",
+     "hacktoberfest",
+     "python",
+     "cybersecurity",
+     "cti",
+     "forensics",
+     "infosec",
+     "pentesting"
+    ],
+    "is_ai": false
+   },
+   {
+    "rank": 2,
+    "name": "dsx-ai-factory/nvke",
+    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "language": "Go",
+    "stars": 834,
+    "forks": 110,
+    "stars_today": 345,
+    "created_at": "2026-08-04T15:42:58Z",
+    "topics": [
+     "bare-metal",
+     "cluster-api",
+     "gpu",
+     "kubernetes",
+     "nvidia"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 3,
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 18215,
+    "forks": 2532,
+    "stars_today": 1439,
+    "created_at": "2026-08-11T18:58:55Z",
+    "topics": [
+     "ai-agents",
+     "claude-code",
+     "codex",
+     "computer-use",
+     "docker",
+     "electron",
+     "self-hosted",
+     "typescript",
+     "grok-bot",
+     "grok",
+     "grok-bot-alternative"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 4,
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars": 19401,
+    "forks": 3281,
+    "stars_today": 32,
+    "created_at": "2024-08-29T19:52:32Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 5,
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 47559,
+    "forks": 3257,
+    "stars_today": 815,
+    "created_at": "2026-01-11T05:38:15Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 6,
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 16659,
+    "forks": 1317,
+    "stars_today": 875,
+    "created_at": "2026-01-09T16:20:32Z",
+    "topics": [],
+    "is_ai": true
+   },
+   {
+    "rank": 7,
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 189605,
+    "forks": 22346,
+    "stars_today": 792,
+    "created_at": "2025-09-22T15:53:31Z",
+    "topics": [
+     "agent-skills"
+    ],
+    "is_ai": true
+   },
+   {
+    "rank": 8,
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 16392,
+    "forks": 1952,
+    "stars_today": 41,
+    "created_at": "2021-08-27T12:25:48Z",
+    "topics": [
+     "robotics",
+     "physics",
+     "mujoco"
+    ],
+    "is_ai": false
+   },
+   {
+    "rank": 9,
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "language": "TypeScript",
+    "stars": 5121,
+    "forks": 404,
+    "stars_today": 460,
+    "created_at": "2026-08-06T08:27:34Z",
+    "topics": [
+     "dsh-plugin"
+    ],
+    "is_ai": false
+   }
+  ]
+ }
+}

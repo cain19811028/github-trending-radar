@@ -1,55 +1,42 @@
-# 🔭 GitHub Trending Radar — 2026-11-08
+# 🔭 GitHub Trending Radar — 2026-11-09
 
-15 trending · 8 AI-related · 6 new today
+9 trending · 6 AI-related · 2 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 6 | 🤖 [meta/astryx](https://github.com/meta/astryx) | TypeScript | +96 / 14,487 | An open source design system that's fully customizable and agent ready |
-| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +1,766 / 100,411 | Hunt down social media accounts by username across social networks |
-| 11 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | TypeScript | +122 / 98,456 | A utility-first CSS framework for rapid UI development. |
-| 12 | [mbillow/localthings](https://github.com/mbillow/localthings) | Python | +186 / 1,051 | Control your Samsung appliances from Home Assistant over your home network, with no cloud… |
-| 14 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | TypeScript | +191 / 4,595 | A context-compression plugin for month-long single sessions (billions of tokens) ,small c… |
-| 15 | 🤖 [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +123 / 547 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| 4 | 🤖 [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +32 / 19,401 | A collection of projects designed to help developers quickly get started with building de… |
+| 8 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +41 / 16,392 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +123 / 547 | +22% in a day | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
-| [mbillow/localthings](https://github.com/mbillow/localthings) | Python | +186 / 1,051 | +18% in a day | Control your Samsung appliances from Home Assistant over your home network, with no cloud… |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,955 / 16,948 | +12% in a day | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +345 / 834 | +41% in a day | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +190 / 46,809 | Browser automation CLI for AI agents |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,085 / 65,684 | A coding-agent skill for multi-phase security audits with independently verified, machine… |
-| 3 | [google/skills](https://github.com/google/skills) | Python | +443 / 23,383 | Agent Skills for Google products and technologies |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,100 / 317,686 | Skills for Real Engineers. Straight from my .agents directory. |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +390 / 188,770 | Public repository for Agent Skills |
-| 6 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +96 / 14,487 | An open source design system that's fully customizable and agent ready |
-| 9 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,955 / 16,948 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 15 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +123 / 547 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| 2 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +345 / 834 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,439 / 18,215 | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +32 / 19,401 | A collection of projects designed to help developers quickly get started with building de… |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +815 / 47,559 | Browser automation CLI for AI agents |
+| 6 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +875 / 16,659 | An open source design system that's fully customizable and agent ready |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +792 / 189,605 | Public repository for Agent Skills |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 7 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | +322 / 67,443 | The Prometheus monitoring system and time series database. |
-| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +1,766 / 100,411 | Hunt down social media accounts by username across social networks |
-| 10 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | +350 / 50,968 | An extremely fast Python linter and code formatter, written in Rust. |
-| 11 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | TypeScript | +122 / 98,456 | A utility-first CSS framework for rapid UI development. |
-| 12 | [mbillow/localthings](https://github.com/mbillow/localthings) | Python | +186 / 1,051 | Control your Samsung appliances from Home Assistant over your home network, with no cloud… |
-| 13 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +1,114 / 94,262 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from th… |
-| 14 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | TypeScript | +191 / 4,595 | A context-compression plugin for month-long single sessions (billions of tokens) ,small c… |
+| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +2,373 / 103,406 | Hunt down social media accounts by username across social networks |
+| 8 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +41 / 16,392 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| 9 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | TypeScript | +460 / 5,121 | A context-compression plugin for month-long single sessions (billions of tokens) ,small c… |
 
 ## 📌 On a Streak
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) — 6 days in a row (13 days total, best rank #2)
-- [google/skills](https://github.com/google/skills) — 3 days in a row (3 days total, best rank #3)
+_None today._
 
 ---
 
