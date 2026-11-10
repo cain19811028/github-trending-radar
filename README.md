@@ -1,42 +1,49 @@
-# 🔭 GitHub Trending Radar — 2026-11-09
+# 🔭 GitHub Trending Radar — 2026-11-10
 
-9 trending · 6 AI-related · 2 new today
+11 trending · 9 AI-related · 3 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 4 | 🤖 [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +32 / 19,401 | A collection of projects designed to help developers quickly get started with building de… |
-| 8 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +41 / 16,392 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| 6 | 🤖 [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | +216 / 32,122 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 9 | 🤖 [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +506 / 68,814 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis… |
+| 10 | 🤖 [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +31 / 5,945 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +345 / 834 | +41% in a day | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3,278 / 19,954 | +16% in a day | An open source design system that's fully customizable and agent ready |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 2 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +345 / 834 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
-| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,439 / 18,215 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +32 / 19,401 | A collection of projects designed to help developers quickly get started with building de… |
-| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +815 / 47,559 | Browser automation CLI for AI agents |
-| 6 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +875 / 16,659 | An open source design system that's fully customizable and agent ready |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +792 / 189,605 | Public repository for Agent Skills |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +1,038 / 190,925 | Public repository for Agent Skills |
+| 2 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3,278 / 19,954 | An open source design system that's fully customizable and agent ready |
+| 5 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +551 / 19,999 | A collection of projects designed to help developers quickly get started with building de… |
+| 6 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | +216 / 32,122 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +916 / 48,441 | Browser automation CLI for AI agents |
+| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +172 / 103,425 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign mon… |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +506 / 68,814 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis… |
+| 10 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +31 / 5,945 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
+| 11 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,587 / 19,641 | Open-source Grok Bot alternative with a virtual machine that bots can use |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +2,373 / 103,406 | Hunt down social media accounts by username across social networks |
-| 8 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +41 / 16,392 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 9 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | TypeScript | +460 / 5,121 | A context-compression plugin for month-long single sessions (billions of tokens) ,small c… |
+| 3 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +4,267 / 106,968 | Hunt down social media accounts by username across social networks |
+| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +574 / 16,892 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
 
 ## 📌 On a Streak
 
-_None today._
+- [anthropics/skills](https://github.com/anthropics/skills) — 3 days in a row (4 days total, best rank #1)
+- [meta/astryx](https://github.com/meta/astryx) — 3 days in a row (3 days total, best rank #2)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — 3 days in a row (3 days total, best rank #1)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 3 days in a row (4 days total, best rank #1)
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — 3 days in a row (7 days total, best rank #2)
 
 ---
 
