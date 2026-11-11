@@ -317,10 +317,10 @@
     "streak": 1
    },
    "addyosmani/agent-skills": {
-    "best_rank": 6,
-    "days": 3,
+    "best_rank": 3,
+    "days": 4,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-11-11",
     "streak": 1
    },
    "affaan-m/ECC": {
@@ -395,10 +395,10 @@
    },
    "anthropics/claude-quickstarts": {
     "best_rank": 4,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-10",
-    "streak": 2
+    "last_seen": "2026-11-11",
+    "streak": 3
    },
    "anthropics/knowledge-work-plugins": {
     "best_rank": 2,
@@ -409,10 +409,10 @@
    },
    "anthropics/skills": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-10",
-    "streak": 3
+    "last_seen": "2026-11-11",
+    "streak": 4
    },
    "antirez/ds4": {
     "best_rank": 15,
@@ -647,10 +647,10 @@
    },
    "google-deepmind/mujoco": {
     "best_rank": 4,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-10",
-    "streak": 2
+    "last_seen": "2026-11-11",
+    "streak": 3
    },
    "google-gemini/gemini-cli": {
     "best_rank": 8,
@@ -688,11 +688,11 @@
     "streak": 1
    },
    "homeassistant-ai/ha-mcp": {
-    "best_rank": 10,
-    "days": 1,
+    "best_rank": 7,
+    "days": 2,
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-10",
-    "streak": 1
+    "last_seen": "2026-11-11",
+    "streak": 2
    },
    "huggingface/transformers": {
     "best_rank": 11,
@@ -808,10 +808,10 @@
    },
    "mattpocock/skills": {
     "best_rank": 2,
-    "days": 13,
+    "days": 14,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-08",
-    "streak": 6
+    "last_seen": "2026-11-11",
+    "streak": 1
    },
    "max-sixty/worktrunk": {
     "best_rank": 2,
@@ -828,11 +828,11 @@
     "streak": 1
    },
    "meta/astryx": {
-    "best_rank": 2,
-    "days": 3,
+    "best_rank": 1,
+    "days": 4,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-10",
-    "streak": 3
+    "last_seen": "2026-11-11",
+    "streak": 4
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -1046,10 +1046,10 @@
    },
    "ranxianglei/billion-context": {
     "best_rank": 9,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-09",
-    "streak": 2
+    "last_seen": "2026-11-11",
+    "streak": 1
    },
    "react/react": {
     "best_rank": 6,
@@ -1088,10 +1088,10 @@
    },
    "sherlock-project/sherlock": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-10",
-    "streak": 3
+    "last_seen": "2026-11-11",
+    "streak": 4
    },
    "shiyu-coder/Kronos": {
     "best_rank": 3,
@@ -1170,6 +1170,13 @@
     "last_seen": "2026-11-02",
     "streak": 1
    },
+   "tokio-rs/topcoat": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "streak": 1
+   },
    "trycua/cua": {
     "best_rank": 10,
     "days": 1,
@@ -1193,10 +1200,10 @@
    },
    "vercel-labs/agent-browser": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-10",
-    "streak": 3
+    "last_seen": "2026-11-11",
+    "streak": 4
    },
    "vercel-labs/agent-desktop": {
     "best_rank": 1,
@@ -1231,6 +1238,13 @@
     "days": 1,
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
+    "streak": 1
+   },
+   "we-promise/sure": {
+    "best_rank": 6,
+    "days": 1,
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
     "streak": 1
    },
    "withmarbleapp/os-taxonomy": {
