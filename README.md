@@ -1,51 +1,47 @@
-# 🔭 GitHub Trending Radar — 2026-11-11
+# 🔭 GitHub Trending Radar — 2026-11-12
 
-12 trending · 7 AI-related · 2 new today
+10 trending · 6 AI-related · 4 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 6 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +159 / 11,907 | The personal finance app for everyone (by everyone) |
-| 10 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust | +192 / 6,792 | A batteries-included framework for building web apps |
+| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +159 / 1,725 |  |
+| 4 | [shadcn/improve](https://github.com/shadcn/improve) | — | +361 / 10,845 | Use your most capable model to audit your codebase and write plans for cheaper models to … |
+| 9 | 🤖 [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +52 / 11,695 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing securi… |
+| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | Java | +51 / 67,006 | All Algorithms implemented in Java |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3,108 / 22,730 | +14% in a day | An open source design system that's fully customizable and agent ready |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +790 / 6,625 | +12% in a day | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
+| [meta/astryx](https://github.com/meta/astryx) | TypeScript | +2,776 / 24,922 | +11% in a day | An open source design system that's fully customizable and agent ready |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3,108 / 22,730 | An open source design system that's fully customizable and agent ready |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +1,679 / 192,284 | Public repository for Agent Skills |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +465 / 115,135 | Production-grade engineering skills for AI coding agents. |
-| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +531 / 20,477 | A collection of projects designed to help developers quickly get started with building de… |
-| 7 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +790 / 6,625 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
-| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +780 / 49,185 | Browser automation CLI for AI agents |
-| 12 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,225 / 320,880 | Skills for Real Engineers. Straight from my .agents directory. |
+| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +2,776 / 24,922 | An open source design system that's fully customizable and agent ready |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +278 / 70,194 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis… |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +787 / 115,918 | Production-grade engineering skills for AI coding agents. |
+| 6 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +708 / 49,846 | Browser automation CLI for AI agents |
+| 8 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +645 / 7,345 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
+| 9 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +52 / 11,695 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing securi… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 5 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +456 / 17,338 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 6 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +159 / 11,907 | The personal finance app for everyone (by everyone) |
-| 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +2,393 / 108,922 | Hunt down social media accounts by username across social networks |
-| 10 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust | +192 / 6,792 | A batteries-included framework for building web apps |
-| 11 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | TypeScript | +375 / 6,294 | A context-compression plugin for month-long single sessions (billions of tokens) ,small c… |
+| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +159 / 1,725 |  |
+| 4 | [shadcn/improve](https://github.com/shadcn/improve) | — | +361 / 10,845 | Use your most capable model to audit your codebase and write plans for cheaper models to … |
+| 7 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +1,078 / 12,935 | The personal finance app for everyone (by everyone) |
+| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | Java | +51 / 67,006 | All Algorithms implemented in Java |
 
 ## 📌 On a Streak
 
-- [meta/astryx](https://github.com/meta/astryx) — 4 days in a row (4 days total, best rank #1)
-- [anthropics/skills](https://github.com/anthropics/skills) — 4 days in a row (5 days total, best rank #1)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 4 days in a row (5 days total, best rank #1)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — 4 days in a row (4 days total, best rank #1)
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — 3 days in a row (3 days total, best rank #4)
-- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) — 3 days in a row (3 days total, best rank #4)
+- [meta/astryx](https://github.com/meta/astryx) — 5 days in a row (5 days total, best rank #1)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 5 days in a row (6 days total, best rank #1)
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — 3 days in a row (3 days total, best rank #7)
 
 ---
 

@@ -92,6 +92,13 @@
     "last_seen": "2026-11-03",
     "streak": 2
    },
+   "GoogleChrome/modern-web-guidance-src": {
+    "best_rank": 3,
+    "days": 1,
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "streak": 1
+   },
    "Graphify-Labs/graphify": {
     "best_rank": 5,
     "days": 3,
@@ -295,6 +302,13 @@
     "last_seen": "2026-11-05",
     "streak": 1
    },
+   "TheAlgorithms/Java": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "streak": 1
+   },
    "Thysrael/Horizon": {
     "best_rank": 15,
     "days": 1,
@@ -310,18 +324,18 @@
     "streak": 1
    },
    "ZhuLinsen/daily_stock_analysis": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-12",
     "streak": 1
    },
    "addyosmani/agent-skills": {
     "best_rank": 3,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-11-11",
-    "streak": 1
+    "last_seen": "2026-11-12",
+    "streak": 2
    },
    "affaan-m/ECC": {
     "best_rank": 3,
@@ -689,10 +703,10 @@
    },
    "homeassistant-ai/ha-mcp": {
     "best_rank": 7,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-11",
-    "streak": 2
+    "last_seen": "2026-11-12",
+    "streak": 3
    },
    "huggingface/transformers": {
     "best_rank": 11,
@@ -829,10 +843,10 @@
    },
    "meta/astryx": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-11",
-    "streak": 4
+    "last_seen": "2026-11-12",
+    "streak": 5
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -958,6 +972,13 @@
     "days": 1,
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
+    "streak": 1
+   },
+   "openai/codex-security": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
     "streak": 1
    },
    "openssl/openssl": {
@@ -1086,6 +1107,13 @@
     "last_seen": "2026-11-06",
     "streak": 2
    },
+   "shadcn/improve": {
+    "best_rank": 4,
+    "days": 1,
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "streak": 1
+   },
    "sherlock-project/sherlock": {
     "best_rank": 1,
     "days": 4,
@@ -1200,10 +1228,10 @@
    },
    "vercel-labs/agent-browser": {
     "best_rank": 1,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-11",
-    "streak": 4
+    "last_seen": "2026-11-12",
+    "streak": 5
    },
    "vercel-labs/agent-desktop": {
     "best_rank": 1,
@@ -1242,10 +1270,10 @@
    },
    "we-promise/sure": {
     "best_rank": 6,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-11",
-    "streak": 1
+    "last_seen": "2026-11-12",
+    "streak": 2
    },
    "withmarbleapp/os-taxonomy": {
     "best_rank": 8,
