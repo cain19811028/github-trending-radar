@@ -10,9 +10,9 @@
    },
    "Alishahryar1/free-claude-code": {
     "best_rank": 9,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-11-13",
     "streak": 1
    },
    "BerriAI/litellm": {
@@ -38,9 +38,9 @@
    },
    "CopilotKit/OpenBot": {
     "best_rank": 4,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-13",
     "streak": 1
    },
    "D4Vinci/Scrapling": {
@@ -93,11 +93,11 @@
     "streak": 2
    },
    "GoogleChrome/modern-web-guidance-src": {
-    "best_rank": 3,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
-    "streak": 1
+    "last_seen": "2026-11-13",
+    "streak": 2
    },
    "Graphify-Labs/graphify": {
     "best_rank": 5,
@@ -253,6 +253,13 @@
     "last_seen": "2026-10-27",
     "streak": 1
    },
+   "QwenLM/qwen-code": {
+    "best_rank": 6,
+    "days": 1,
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "streak": 1
+   },
    "Renhuai123/ziwei-doushu": {
     "best_rank": 5,
     "days": 5,
@@ -332,10 +339,10 @@
    },
    "addyosmani/agent-skills": {
     "best_rank": 3,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-05",
-    "last_seen": "2026-11-12",
-    "streak": 2
+    "last_seen": "2026-11-13",
+    "streak": 3
    },
    "affaan-m/ECC": {
     "best_rank": 3,
@@ -433,6 +440,13 @@
     "days": 1,
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
+    "streak": 1
+   },
+   "ashhart/TensorFold": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
     "streak": 1
    },
    "astral-sh/ruff": {
@@ -645,6 +659,13 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "ggml-org/llama.cpp": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "streak": 1
+   },
    "github/spec-kit": {
     "best_rank": 7,
     "days": 1,
@@ -843,10 +864,10 @@
    },
    "meta/astryx": {
     "best_rank": 1,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-12",
-    "streak": 5
+    "last_seen": "2026-11-13",
+    "streak": 6
    },
    "michael-denyer/pstack-claude": {
     "best_rank": 11,
@@ -934,9 +955,9 @@
    },
    "nodejs/node": {
     "best_rank": 8,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-11-13",
     "streak": 1
    },
    "ntdevlabs/tiny11builder": {
@@ -954,10 +975,10 @@
     "streak": 1
    },
    "nvm-sh/nvm": {
-    "best_rank": 4,
-    "days": 1,
+    "best_rank": 3,
+    "days": 2,
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-11-13",
     "streak": 1
    },
    "obra/superpowers": {
@@ -975,11 +996,11 @@
     "streak": 1
    },
    "openai/codex-security": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
-    "streak": 1
+    "last_seen": "2026-11-13",
+    "streak": 2
    },
    "openssl/openssl": {
     "best_rank": 14,
@@ -1036,6 +1057,13 @@
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-27",
     "streak": 3
+   },
+   "pookjw/HermesEnabler": {
+    "best_rank": 4,
+    "days": 1,
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "streak": 1
    },
    "prometheus/prometheus": {
     "best_rank": 7,
@@ -1269,11 +1297,11 @@
     "streak": 1
    },
    "we-promise/sure": {
-    "best_rank": 6,
-    "days": 2,
+    "best_rank": 5,
+    "days": 3,
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-12",
-    "streak": 2
+    "last_seen": "2026-11-13",
+    "streak": 3
    },
    "withmarbleapp/os-taxonomy": {
     "best_rank": 8,

@@ -1,47 +1,51 @@
-# 🔭 GitHub Trending Radar — 2026-11-12
+# 🔭 GitHub Trending Radar — 2026-11-13
 
-10 trending · 6 AI-related · 4 new today
+13 trending · 9 AI-related · 4 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +159 / 1,725 |  |
-| 4 | [shadcn/improve](https://github.com/shadcn/improve) | — | +361 / 10,845 | Use your most capable model to audit your codebase and write plans for cheaper models to … |
-| 9 | 🤖 [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +52 / 11,695 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing securi… |
-| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | Java | +51 / 67,006 | All Algorithms implemented in Java |
+| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | +218 / 1,520 | Enable Hermès Watch Faces on any Apple Watch devices |
+| 6 | 🤖 [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | +151 / 29,787 | An open-source AI coding agent that lives in your terminal. |
+| 7 | 🤖 [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | Zig | +54 / 1,928 | LLM Inference Engine for Metal, CUDA and Vulkan. |
+| 13 | 🤖 [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | +176 / 134,539 | LLM inference in C/C++ |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [meta/astryx](https://github.com/meta/astryx) | TypeScript | +2,776 / 24,922 | +11% in a day | An open source design system that's fully customizable and agent ready |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +739 / 2,872 | +26% in a day | Keep your coding agent up to date with the latest web best practices |
+| [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | +218 / 1,520 | +14% in a day | Enable Hermès Watch Faces on any Apple Watch devices |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +2,776 / 24,922 | An open source design system that's fully customizable and agent ready |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +278 / 70,194 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis… |
-| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +787 / 115,918 | Production-grade engineering skills for AI coding agents. |
-| 6 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +708 / 49,846 | Browser automation CLI for AI agents |
-| 8 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +645 / 7,345 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
-| 9 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +52 / 11,695 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing securi… |
+| 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +739 / 2,872 | Keep your coding agent up to date with the latest web best practices |
+| 2 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +643 / 12,398 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing securi… |
+| 6 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | +151 / 29,787 | An open-source AI coding agent that lives in your terminal. |
+| 7 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | Zig | +54 / 1,928 | LLM Inference Engine for Metal, CUDA and Vulkan. |
+| 9 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +816 / 116,656 | Production-grade engineering skills for AI coding agents. |
+| 10 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +1,830 / 26,494 | An open source design system that's fully customizable and agent ready |
+| 11 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +298 / 11,582 | Open-source AI coworkers that each get a computer of their own: a browser, files and tool… |
+| 12 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +415 / 69,269 | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for… |
+| 13 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | +176 / 134,539 | LLM inference in C/C++ |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +159 / 1,725 |  |
-| 4 | [shadcn/improve](https://github.com/shadcn/improve) | — | +361 / 10,845 | Use your most capable model to audit your codebase and write plans for cheaper models to … |
-| 7 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +1,078 / 12,935 | The personal finance app for everyone (by everyone) |
-| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | Java | +51 / 67,006 | All Algorithms implemented in Java |
+| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +63 / 96,005 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js vers… |
+| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | +218 / 1,520 | Enable Hermès Watch Faces on any Apple Watch devices |
+| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +967 / 13,889 | The personal finance app for everyone (by everyone) |
+| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +62 / 123,592 | Node.js JavaScript runtime ✨🐢🚀✨ |
 
 ## 📌 On a Streak
 
-- [meta/astryx](https://github.com/meta/astryx) — 5 days in a row (5 days total, best rank #1)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 5 days in a row (6 days total, best rank #1)
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — 3 days in a row (3 days total, best rank #7)
+- [meta/astryx](https://github.com/meta/astryx) — 6 days in a row (6 days total, best rank #1)
+- [we-promise/sure](https://github.com/we-promise/sure) — 3 days in a row (3 days total, best rank #5)
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — 3 days in a row (6 days total, best rank #3)
 
 ---
 
