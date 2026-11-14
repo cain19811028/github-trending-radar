@@ -22,6 +22,13 @@
     "last_seen": "2026-10-10",
     "streak": 1
    },
+   "ChromeDevTools/chrome-devtools-mcp": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "streak": 1
+   },
    "Comfy-Org/ComfyUI": {
     "best_rank": 4,
     "days": 4,
@@ -94,10 +101,10 @@
    },
    "GoogleChrome/modern-web-guidance-src": {
     "best_rank": 1,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-13",
-    "streak": 2
+    "last_seen": "2026-11-14",
+    "streak": 3
    },
    "Graphify-Labs/graphify": {
     "best_rank": 5,
@@ -161,6 +168,13 @@
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-20",
     "streak": 2
+   },
+   "Likely7/Veyra-NRVideo": {
+    "best_rank": 11,
+    "days": 1,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "streak": 1
    },
    "M-Abozaid/esp32-c3-adblock": {
     "best_rank": 13,
@@ -332,9 +346,9 @@
    },
    "ZhuLinsen/daily_stock_analysis": {
     "best_rank": 2,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-14",
     "streak": 1
    },
    "addyosmani/agent-skills": {
@@ -366,10 +380,10 @@
     "streak": 1
    },
    "alibaba/open-code-review": {
-    "best_rank": 5,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-11-14",
     "streak": 1
    },
    "android/skills": {
@@ -470,6 +484,13 @@
     "last_seen": "2026-10-08",
     "streak": 2
    },
+   "backnotprop/plannotator": {
+    "best_rank": 6,
+    "days": 1,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "streak": 1
+   },
    "beenuar/AiSOC": {
     "best_rank": 10,
     "days": 1,
@@ -483,6 +504,13 @@
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-14",
     "streak": 3
+   },
+   "block/buzz": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "streak": 1
    },
    "boykopovar/AnyPS5": {
     "best_rank": 1,
@@ -799,6 +827,13 @@
     "last_seen": "2026-10-09",
     "streak": 1
    },
+   "louislam/uptime-kuma": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "streak": 1
+   },
    "luongnv89/claude-howto": {
     "best_rank": 5,
     "days": 2,
@@ -997,10 +1032,10 @@
    },
    "openai/codex-security": {
     "best_rank": 2,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-13",
-    "streak": 2
+    "last_seen": "2026-11-14",
+    "streak": 3
    },
    "openssl/openssl": {
     "best_rank": 14,
@@ -1191,6 +1226,13 @@
     "last_seen": "2026-11-07",
     "streak": 1
    },
+   "tailscale/tailcat": {
+    "best_rank": 10,
+    "days": 1,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "streak": 1
+   },
    "tailwindlabs/tailwindcss": {
     "best_rank": 11,
     "days": 1,
@@ -1231,6 +1273,13 @@
     "days": 1,
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
+    "streak": 1
+   },
+   "tradermonty/claude-trading-skills": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "streak": 1
    },
    "trycua/cua": {
@@ -1298,10 +1347,10 @@
    },
    "we-promise/sure": {
     "best_rank": 5,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-13",
-    "streak": 3
+    "last_seen": "2026-11-14",
+    "streak": 4
    },
    "withmarbleapp/os-taxonomy": {
     "best_rank": 8,

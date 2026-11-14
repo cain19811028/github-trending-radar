@@ -1,51 +1,53 @@
-# 🔭 GitHub Trending Radar — 2026-11-13
+# 🔭 GitHub Trending Radar — 2026-11-14
 
-13 trending · 9 AI-related · 4 new today
+12 trending · 8 AI-related · 7 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | +218 / 1,520 | Enable Hermès Watch Faces on any Apple Watch devices |
-| 6 | 🤖 [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | +151 / 29,787 | An open-source AI coding agent that lives in your terminal. |
-| 7 | 🤖 [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | Zig | +54 / 1,928 | LLM Inference Engine for Metal, CUDA and Vulkan. |
-| 13 | 🤖 [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | +176 / 134,539 | LLM inference in C/C++ |
+| 6 | 🤖 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +108 / 10,441 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, r… |
+| 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | JavaScript | +71 / 93,850 | A fancy self-hosted monitoring tool |
+| 8 | [block/buzz](https://github.com/block/buzz) | Rust | +97 / 37,294 | A hive mind communication platform |
+| 9 | 🤖 [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +69 / 4,151 | Claude Code skills for equity investors and traders — market analysis, technical charting… |
+| 10 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | Go | +256 / 9,445 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 11 | 🤖 [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | C++ | +256 / 1,615 | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhanc… |
+| 12 | 🤖 [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +67 / 55,444 | Chrome DevTools for coding agents |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +739 / 2,872 | +26% in a day | Keep your coding agent up to date with the latest web best practices |
-| [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | +218 / 1,520 | +14% in a day | Enable Hermès Watch Faces on any Apple Watch devices |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1,925 / 4,809 | +40% in a day | Keep your coding agent up to date with the latest web best practices |
+| [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | C++ | +256 / 1,615 | +16% in a day | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhanc… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +739 / 2,872 | Keep your coding agent up to date with the latest web best practices |
-| 2 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +643 / 12,398 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing securi… |
-| 6 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | +151 / 29,787 | An open-source AI coding agent that lives in your terminal. |
-| 7 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | Zig | +54 / 1,928 | LLM Inference Engine for Metal, CUDA and Vulkan. |
-| 9 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +816 / 116,656 | Production-grade engineering skills for AI coding agents. |
-| 10 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +1,830 / 26,494 | An open source design system that's fully customizable and agent ready |
-| 11 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +298 / 11,582 | Open-source AI coworkers that each get a computer of their own: a browser, files and tool… |
-| 12 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +415 / 69,269 | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for… |
-| 13 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | +176 / 134,539 | LLM inference in C/C++ |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +215 / 50,591 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revie… |
+| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1,925 / 4,809 | Keep your coding agent up to date with the latest web best practices |
+| 3 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +751 / 13,122 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing securi… |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +256 / 71,573 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis… |
+| 6 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +108 / 10,441 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, r… |
+| 9 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +69 / 4,151 | Claude Code skills for equity investors and traders — market analysis, technical charting… |
+| 11 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | C++ | +256 / 1,615 | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhanc… |
+| 12 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +67 / 55,444 | Chrome DevTools for coding agents |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +63 / 96,005 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js vers… |
-| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | +218 / 1,520 | Enable Hermès Watch Faces on any Apple Watch devices |
-| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +967 / 13,889 | The personal finance app for everyone (by everyone) |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +62 / 123,592 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +925 / 14,723 | The personal finance app for everyone (by everyone) |
+| 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | JavaScript | +71 / 93,850 | A fancy self-hosted monitoring tool |
+| 8 | [block/buzz](https://github.com/block/buzz) | Rust | +97 / 37,294 | A hive mind communication platform |
+| 10 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | Go | +256 / 9,445 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
 
 ## 📌 On a Streak
 
-- [meta/astryx](https://github.com/meta/astryx) — 6 days in a row (6 days total, best rank #1)
-- [we-promise/sure](https://github.com/we-promise/sure) — 3 days in a row (3 days total, best rank #5)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — 3 days in a row (6 days total, best rank #3)
+- [we-promise/sure](https://github.com/we-promise/sure) — 4 days in a row (4 days total, best rank #5)
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — 3 days in a row (3 days total, best rank #1)
+- [openai/codex-security](https://github.com/openai/codex-security) — 3 days in a row (3 days total, best rank #2)
 
 ---
 
