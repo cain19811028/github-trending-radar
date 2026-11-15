@@ -23,11 +23,11 @@
     "streak": 1
    },
    "ChromeDevTools/chrome-devtools-mcp": {
-    "best_rank": 12,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
-    "streak": 1
+    "last_seen": "2026-11-15",
+    "streak": 2
    },
    "Comfy-Org/ComfyUI": {
     "best_rank": 4,
@@ -101,10 +101,10 @@
    },
    "GoogleChrome/modern-web-guidance-src": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-14",
-    "streak": 3
+    "last_seen": "2026-11-15",
+    "streak": 4
    },
    "Graphify-Labs/graphify": {
     "best_rank": 5,
@@ -143,9 +143,9 @@
    },
    "JuliusBrussee/caveman": {
     "best_rank": 4,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-11-15",
     "streak": 1
    },
    "JustVugg/colibri": {
@@ -171,10 +171,10 @@
    },
    "Likely7/Veyra-NRVideo": {
     "best_rank": 11,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
-    "streak": 1
+    "last_seen": "2026-11-15",
+    "streak": 2
    },
    "M-Abozaid/esp32-c3-adblock": {
     "best_rank": 13,
@@ -269,9 +269,9 @@
    },
    "QwenLM/qwen-code": {
     "best_rank": 6,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "streak": 1
    },
    "Renhuai123/ziwei-doushu": {
@@ -315,6 +315,13 @@
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-27",
     "streak": 2
+   },
+   "Tencent/LoopForge": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "streak": 1
    },
    "The-PR-Agent/pr-agent": {
     "best_rank": 8,
@@ -365,6 +372,13 @@
     "last_seen": "2026-10-28",
     "streak": 2
    },
+   "ag-ui-protocol/ag-ui": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "streak": 1
+   },
    "akitaonrails/ai-memory": {
     "best_rank": 3,
     "days": 4,
@@ -381,10 +395,10 @@
    },
    "alibaba/open-code-review": {
     "best_rank": 1,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-14",
-    "streak": 1
+    "last_seen": "2026-11-15",
+    "streak": 2
    },
    "android/skills": {
     "best_rank": 7,
@@ -458,9 +472,9 @@
    },
    "ashhart/TensorFold": {
     "best_rank": 7,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "streak": 1
    },
    "astral-sh/ruff": {
@@ -485,11 +499,11 @@
     "streak": 2
    },
    "backnotprop/plannotator": {
-    "best_rank": 6,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
-    "streak": 1
+    "last_seen": "2026-11-15",
+    "streak": 2
    },
    "beenuar/AiSOC": {
     "best_rank": 10,
@@ -608,6 +622,13 @@
     "days": 1,
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
+    "streak": 1
+   },
+   "dream-num/univer": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
     "streak": 1
    },
    "dsx-ai-factory/nvke": {
@@ -829,10 +850,10 @@
    },
    "louislam/uptime-kuma": {
     "best_rank": 7,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
-    "streak": 1
+    "last_seen": "2026-11-15",
+    "streak": 2
    },
    "luongnv89/claude-howto": {
     "best_rank": 5,
@@ -874,6 +895,13 @@
     "days": 1,
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
+    "streak": 1
+   },
+   "martin-olivier/airgorah": {
+    "best_rank": 15,
+    "days": 1,
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
     "streak": 1
    },
    "mattpocock/skills": {
@@ -1276,11 +1304,11 @@
     "streak": 1
    },
    "tradermonty/claude-trading-skills": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 3,
+    "days": 2,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
-    "streak": 1
+    "last_seen": "2026-11-15",
+    "streak": 2
    },
    "trycua/cua": {
     "best_rank": 10,
@@ -1347,10 +1375,10 @@
    },
    "we-promise/sure": {
     "best_rank": 5,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-14",
-    "streak": 4
+    "last_seen": "2026-11-15",
+    "streak": 5
    },
    "withmarbleapp/os-taxonomy": {
     "best_rank": 8,
