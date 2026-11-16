@@ -24,10 +24,10 @@
    },
    "ChromeDevTools/chrome-devtools-mcp": {
     "best_rank": 4,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-15",
-    "streak": 2
+    "last_seen": "2026-11-16",
+    "streak": 3
    },
    "Comfy-Org/ComfyUI": {
     "best_rank": 4,
@@ -101,10 +101,10 @@
    },
    "GoogleChrome/modern-web-guidance-src": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-15",
-    "streak": 4
+    "last_seen": "2026-11-16",
+    "streak": 5
    },
    "Graphify-Labs/graphify": {
     "best_rank": 5,
@@ -210,6 +210,13 @@
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-25",
     "streak": 2
+   },
+   "NVIDIA/SkillEvaluator": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "streak": 1
    },
    "NVIDIA/SkillSpector": {
     "best_rank": 7,
@@ -317,11 +324,11 @@
     "streak": 2
    },
    "Tencent/LoopForge": {
-    "best_rank": 13,
-    "days": 1,
+    "best_rank": 7,
+    "days": 2,
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-15",
-    "streak": 1
+    "last_seen": "2026-11-16",
+    "streak": 2
    },
    "The-PR-Agent/pr-agent": {
     "best_rank": 8,
@@ -373,11 +380,11 @@
     "streak": 2
    },
    "ag-ui-protocol/ag-ui": {
-    "best_rank": 8,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-15",
-    "streak": 1
+    "last_seen": "2026-11-16",
+    "streak": 2
    },
    "akitaonrails/ai-memory": {
     "best_rank": 3,
@@ -395,10 +402,10 @@
    },
    "alibaba/open-code-review": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-15",
-    "streak": 2
+    "last_seen": "2026-11-16",
+    "streak": 3
    },
    "android/skills": {
     "best_rank": 7,
@@ -500,10 +507,10 @@
    },
    "backnotprop/plannotator": {
     "best_rank": 1,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-15",
-    "streak": 2
+    "last_seen": "2026-11-16",
+    "streak": 3
    },
    "beenuar/AiSOC": {
     "best_rank": 10,
@@ -625,11 +632,11 @@
     "streak": 1
    },
    "dream-num/univer": {
-    "best_rank": 7,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-15",
-    "streak": 1
+    "last_seen": "2026-11-16",
+    "streak": 2
    },
    "dsx-ai-factory/nvke": {
     "best_rank": 2,
@@ -651,6 +658,13 @@
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-30",
     "streak": 3
+   },
+   "elementalsouls/Claude-BugHunter": {
+    "best_rank": 9,
+    "days": 1,
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "streak": 1
    },
    "etcd-io/etcd": {
     "best_rank": 13,
@@ -708,6 +722,13 @@
     "last_seen": "2026-10-05",
     "streak": 1
    },
+   "ggml-org/ggml": {
+    "best_rank": 8,
+    "days": 1,
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "streak": 1
+   },
    "ggml-org/llama.cpp": {
     "best_rank": 13,
     "days": 1,
@@ -741,6 +762,13 @@
     "days": 1,
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
+    "streak": 1
+   },
+   "google-labs-code/stitch-skills": {
+    "best_rank": 3,
+    "days": 1,
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
     "streak": 1
    },
    "google/skills": {
@@ -1305,10 +1333,10 @@
    },
    "tradermonty/claude-trading-skills": {
     "best_rank": 3,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-15",
-    "streak": 2
+    "last_seen": "2026-11-16",
+    "streak": 3
    },
    "trycua/cua": {
     "best_rank": 10,
