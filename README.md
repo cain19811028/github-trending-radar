@@ -1,58 +1,53 @@
-# 🔭 GitHub Trending Radar — 2026-11-17
+# 🔭 GitHub Trending Radar — 2026-11-18
 
-14 trending · 11 AI-related · 6 new today
+15 trending · 12 AI-related · 1 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 5 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Go | +46 / 8,696 | Modern Docker Management, Designed for Everyone |
-| 6 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | JavaScript | +288 / 6,682 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Historical Atlas of China across 18 … |
-| 8 | 🤖 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +135 / 68,103 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… |
-| 11 | 🤖 [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | +313 / 1,473 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| 13 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | JavaScript | +115 / 88,973 | web development for the rest of us |
-| 14 | 🤖 [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Python | +367 / 6,670 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract an… |
+| 14 | 🤖 [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +192 / 65,939 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | +873 / 2,667 | +33% in a day | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, seman… |
-| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | +313 / 1,473 | +21% in a day | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +837 / 6,295 | +13% in a day | Claude Code skills for equity investors and traders — market analysis, technical charting… |
+| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | +1,072 / 2,958 | +36% in a day | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | +591 / 3,107 | +19% in a day | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude … |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,005 / 9,223 | +11% in a day | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +791 / 18,936 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| 2 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +696 / 12,536 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, r… |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1,828 / 27,760 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboratio… |
-| 4 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +837 / 6,295 | Claude Code skills for equity investors and traders — market analysis, technical charting… |
-| 7 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +529 / 9,727 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows… |
-| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +135 / 68,103 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… |
-| 9 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | +873 / 2,667 | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, seman… |
-| 10 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +951 / 52,917 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revie… |
-| 11 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | +313 / 1,473 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| 12 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +841 / 57,665 | Chrome DevTools for coding agents |
-| 14 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Python | +367 / 6,670 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract an… |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,005 / 9,223 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +696 / 69,028 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +763 / 53,710 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revie… |
+| 4 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | +591 / 3,107 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude … |
+| 5 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1,774 / 28,887 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboratio… |
+| 7 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +350 / 10,087 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows… |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,917 / 319,307 | An agentic skills framework & software development methodology that works. |
+| 10 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +1,445 / 19,981 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| 11 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +691 / 13,057 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, r… |
+| 13 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +883 / 305,483 | The agent harness performance optimization system. Skills, instincts, memory, security, a… |
+| 14 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +192 / 65,939 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| 15 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | +1,072 / 2,958 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 5 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Go | +46 / 8,696 | Modern Docker Management, Designed for Everyone |
-| 6 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | JavaScript | +288 / 6,682 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Historical Atlas of China across 18 … |
-| 13 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | JavaScript | +115 / 88,973 | web development for the rest of us |
+| 6 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Go | +618 / 9,306 | Modern Docker Management, Designed for Everyone |
+| 8 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +201 / 16,887 | Cursor plugin specification and official plugins |
+| 12 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | JavaScript | +477 / 89,582 | web development for the rest of us |
 
 ## 📌 On a Streak
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — 4 days in a row (4 days total, best rank #1)
-- [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) — 4 days in a row (4 days total, best rank #3)
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 4 days in a row (5 days total, best rank #1)
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — 4 days in a row (4 days total, best rank #4)
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — 3 days in a row (3 days total, best rank #1)
-- [dream-num/univer](https://github.com/dream-num/univer) — 3 days in a row (3 days total, best rank #1)
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 5 days in a row (6 days total, best rank #1)
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — 5 days in a row (5 days total, best rank #1)
+- [dream-num/univer](https://github.com/dream-num/univer) — 4 days in a row (4 days total, best rank #1)
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — 4 days in a row (4 days total, best rank #1)
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 3 days in a row (3 days total, best rank #3)
 
 ---
 

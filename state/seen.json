@@ -331,11 +331,11 @@
     "streak": 2
    },
    "Tencent/LoopForge": {
-    "best_rank": 7,
-    "days": 2,
+    "best_rank": 4,
+    "days": 3,
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-16",
-    "streak": 2
+    "last_seen": "2026-11-18",
+    "streak": 1
    },
    "The-PR-Agent/pr-agent": {
     "best_rank": 8,
@@ -381,17 +381,17 @@
    },
    "affaan-m/ECC": {
     "best_rank": 3,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-28",
-    "streak": 2
+    "last_seen": "2026-11-18",
+    "streak": 1
    },
    "ag-ui-protocol/ag-ui": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-17",
-    "streak": 3
+    "last_seen": "2026-11-18",
+    "streak": 4
    },
    "akitaonrails/ai-memory": {
     "best_rank": 3,
@@ -409,10 +409,10 @@
    },
    "alibaba/open-code-review": {
     "best_rank": 1,
-    "days": 5,
+    "days": 6,
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-17",
-    "streak": 4
+    "last_seen": "2026-11-18",
+    "streak": 5
    },
    "android/skills": {
     "best_rank": 7,
@@ -514,10 +514,10 @@
    },
    "backnotprop/plannotator": {
     "best_rank": 1,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-17",
-    "streak": 4
+    "last_seen": "2026-11-18",
+    "streak": 5
    },
    "beenuar/AiSOC": {
     "best_rank": 10,
@@ -619,9 +619,9 @@
    },
    "cursor/plugins": {
     "best_rank": 4,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-11-18",
     "streak": 1
    },
    "debpalash/VoiceStudio": {
@@ -640,10 +640,10 @@
    },
    "dream-num/univer": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-17",
-    "streak": 3
+    "last_seen": "2026-11-18",
+    "streak": 4
    },
    "dsx-ai-factory/nvke": {
     "best_rank": 2,
@@ -667,10 +667,10 @@
     "streak": 3
    },
    "elementalsouls/Claude-BugHunter": {
-    "best_rank": 9,
-    "days": 1,
+    "best_rank": 1,
+    "days": 2,
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "streak": 1
    },
    "etcd-io/etcd": {
@@ -724,10 +724,10 @@
    },
    "getarcaneapp/arcane": {
     "best_rank": 5,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
-    "streak": 1
+    "last_seen": "2026-11-18",
+    "streak": 2
    },
    "getsentry/sentry": {
     "best_rank": 7,
@@ -780,17 +780,17 @@
    },
    "google-labs-code/stitch-skills": {
     "best_rank": 3,
-    "days": 2,
+    "days": 3,
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "streak": 2
+    "last_seen": "2026-11-18",
+    "streak": 3
    },
    "google-research/paper-orchestra": {
     "best_rank": 11,
-    "days": 1,
+    "days": 2,
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
-    "streak": 1
+    "last_seen": "2026-11-18",
+    "streak": 2
    },
    "google/skills": {
     "best_rank": 3,
@@ -860,6 +860,13 @@
     "days": 1,
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
+    "streak": 1
+   },
+   "jingyaogong/minimind": {
+    "best_rank": 14,
+    "days": 1,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
     "streak": 1
    },
    "kajisho5/ffmpeg-skill": {
@@ -1066,11 +1073,11 @@
     "streak": 1
    },
    "mvanhorn/last30days-skill": {
-    "best_rank": 8,
-    "days": 1,
+    "best_rank": 2,
+    "days": 2,
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
-    "streak": 1
+    "last_seen": "2026-11-18",
+    "streak": 2
    },
    "nightly-labs/openbot": {
     "best_rank": 3,
@@ -1109,10 +1116,10 @@
    },
    "obra/superpowers": {
     "best_rank": 2,
-    "days": 7,
+    "days": 8,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-01",
-    "streak": 5
+    "last_seen": "2026-11-18",
+    "streak": 1
    },
    "open-webui/open-webui": {
     "best_rank": 5,
@@ -1311,11 +1318,11 @@
     "streak": 2
    },
    "sveltejs/svelte": {
-    "best_rank": 13,
-    "days": 1,
+    "best_rank": 12,
+    "days": 2,
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
-    "streak": 1
+    "last_seen": "2026-11-18",
+    "streak": 2
    },
    "symfony/symfony": {
     "best_rank": 8,
