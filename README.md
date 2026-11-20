@@ -1,63 +1,59 @@
-# 🔭 GitHub Trending Radar — 2026-11-19
+# 🔭 GitHub Trending Radar — 2026-11-20
 
-20 trending · 12 AI-related · 7 new today
+16 trending · 12 AI-related · 7 new today
 
 ## 🆕 New Today
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 8 | [astral-sh/uv](https://github.com/astral-sh/uv) | Rust | +258 / 92,218 | An extremely fast Python package and project manager, written in Rust. |
-| 12 | [jquery/jquery](https://github.com/jquery/jquery) | JavaScript | +266 / 60,007 | jQuery JavaScript Library |
-| 13 | 🤖 [appwrite/appwrite](https://github.com/appwrite/appwrite) | TypeScript | +232 / 58,229 | The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, M… |
-| 14 | 🤖 [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | +24 / 11,317 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
-| 18 | 🤖 [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | +325 / 211,062 | Fair-code workflow automation platform with native AI capabilities. Combine visual buildi… |
-| 19 | [solidjs/solid](https://github.com/solidjs/solid) | TypeScript | +40 / 36,567 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
-| 20 | 🤖 [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | — | +53 / 98,009 | A collection of MCP servers. |
+| 6 | 🤖 [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +825 / 204,178 | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provid… |
+| 7 | [nginx/nginx](https://github.com/nginx/nginx) | C | +73 / 32,322 | The official NGINX Open Source repository. |
+| 12 | 🤖 [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +377 / 1,819 | Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard… |
+| 13 | 🤖 [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Python | +38 / 13,113 | The open-source agent for CI/CD reliability. |
+| 14 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +182 / 75,151 | There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain\]) is a next-gen knowled… |
+| 15 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Python | +341 / 12,679 | The only downloader you need. 下载器的集大成者。 |
+| 16 | 🤖 [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +126 / 11,196 | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels… |
 
 ## 🚀 Breakouts
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | +1,524 / 4,251 | +36% in a day | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +2,313 / 11,340 | +20% in a day | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
+| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +377 / 1,819 | +21% in a day | Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard… |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,349 / 12,488 | +11% in a day | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +2,313 / 11,340 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +389 / 59,719 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1,059 / 69,974 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… |
-| 6 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | +312 / 3,706 | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, seman… |
-| 9 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | +1,524 / 4,251 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| 10 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +365 / 10,390 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows… |
-| 13 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | TypeScript | +232 / 58,229 | The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, M… |
-| 14 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | +24 / 11,317 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
-| 15 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +822 / 321,304 | An agentic skills framework & software development methodology that works. |
-| 16 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1,108 / 306,478 | The agent harness performance optimization system. Skills, instincts, memory, security, a… |
-| 18 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | +325 / 211,062 | Fair-code workflow automation platform with native AI capabilities. Combine visual buildi… |
-| 20 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | — | +53 / 98,009 | A collection of MCP servers. |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,349 / 12,488 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2,028 / 322,058 | An agentic skills framework & software development methodology that works. |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +898 / 60,534 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +238 / 66,838 | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
+| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +825 / 204,178 | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provid… |
+| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | +246 / 11,554 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +271 / 68,618 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Q… |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +954 / 70,777 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… |
+| 11 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +302 / 10,710 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows… |
+| 12 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +377 / 1,819 | Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard… |
+| 13 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Python | +38 / 13,113 | The open-source agent for CI/CD reliability. |
+| 16 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +126 / 11,196 | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 2 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +314 / 17,183 | Cursor plugin specification and official plugins |
-| 5 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Go | +547 / 9,781 | Modern Docker Management, Designed for Everyone |
-| 7 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +237 / 96,152 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js vers… |
-| 8 | [astral-sh/uv](https://github.com/astral-sh/uv) | Rust | +258 / 92,218 | An extremely fast Python package and project manager, written in Rust. |
-| 11 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | JavaScript | +692 / 89,626 | web development for the rest of us |
-| 12 | [jquery/jquery](https://github.com/jquery/jquery) | JavaScript | +266 / 60,007 | jQuery JavaScript Library |
-| 17 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | JavaScript | +218 / 7,916 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Historical Atlas of China across 18 … |
-| 19 | [solidjs/solid](https://github.com/solidjs/solid) | TypeScript | +40 / 36,567 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +384 / 17,548 | Cursor plugin specification and official plugins |
+| 7 | [nginx/nginx](https://github.com/nginx/nginx) | C | +73 / 32,322 | The official NGINX Open Source repository. |
+| 14 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +182 / 75,151 | There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain\]) is a next-gen knowled… |
+| 15 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Python | +341 / 12,679 | The only downloader you need. 下载器的集大成者。 |
 
 ## 📌 On a Streak
 
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 4 days in a row (4 days total, best rank #3)
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — 3 days in a row (3 days total, best rank #2)
-- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) — 3 days in a row (3 days total, best rank #5)
-- [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) — 3 days in a row (3 days total, best rank #9)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) — 3 days in a row (3 days total, best rank #11)
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 5 days in a row (5 days total, best rank #3)
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — 4 days in a row (4 days total, best rank #2)
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — 3 days in a row (4 days total, best rank #1)
+- [obra/superpowers](https://github.com/obra/superpowers) — 3 days in a row (10 days total, best rank #2)
+- [cursor/plugins](https://github.com/cursor/plugins) — 3 days in a row (5 days total, best rank #2)
 
 ---
 

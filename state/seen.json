@@ -122,10 +122,10 @@
    },
    "HKUDS/CLI-Anything": {
     "best_rank": 3,
-    "days": 6,
+    "days": 7,
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-19",
-    "streak": 1
+    "last_seen": "2026-11-20",
+    "streak": 2
    },
    "HKUDS/DeepTutor": {
     "best_rank": 1,
@@ -358,11 +358,25 @@
     "last_seen": "2026-11-05",
     "streak": 1
    },
+   "Tracer-Cloud/opensre": {
+    "best_rank": 13,
+    "days": 1,
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "streak": 1
+   },
    "Usagi-org/ai-goofish-monitor": {
     "best_rank": 4,
     "days": 2,
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-06",
+    "streak": 1
+   },
+   "XiaoYouChR/Ghost-Downloader-3": {
+    "best_rank": 15,
+    "days": 1,
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
     "streak": 1
    },
    "ZhuLinsen/daily_stock_analysis": {
@@ -584,10 +598,10 @@
    },
    "cathrynlavery/diagram-design": {
     "best_rank": 2,
-    "days": 8,
+    "days": 9,
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-14",
-    "streak": 8
+    "last_seen": "2026-11-20",
+    "streak": 1
    },
    "chrislgarry/Apollo-11": {
     "best_rank": 8,
@@ -633,10 +647,10 @@
    },
    "cursor/plugins": {
     "best_rank": 2,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-19",
-    "streak": 2
+    "last_seen": "2026-11-20",
+    "streak": 3
    },
    "debpalash/VoiceStudio": {
     "best_rank": 2,
@@ -682,10 +696,10 @@
    },
    "elementalsouls/Claude-BugHunter": {
     "best_rank": 1,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-19",
-    "streak": 2
+    "last_seen": "2026-11-20",
+    "streak": 3
    },
    "etcd-io/etcd": {
     "best_rank": 13,
@@ -706,6 +720,13 @@
     "days": 1,
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
+    "streak": 1
+   },
+   "firecrawl/firecrawl": {
+    "best_rank": 6,
+    "days": 1,
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
     "streak": 1
    },
    "floci-io/floci": {
@@ -794,10 +815,10 @@
    },
    "google-labs-code/stitch-skills": {
     "best_rank": 3,
-    "days": 4,
+    "days": 5,
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-19",
-    "streak": 4
+    "last_seen": "2026-11-20",
+    "streak": 5
    },
    "google-research/paper-orchestra": {
     "best_rank": 9,
@@ -877,10 +898,10 @@
     "streak": 1
    },
    "jingyaogong/minimind": {
-    "best_rank": 14,
-    "days": 1,
+    "best_rank": 4,
+    "days": 2,
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "streak": 1
    },
    "jquery/jquery": {
@@ -1051,6 +1072,13 @@
     "last_seen": "2026-11-10",
     "streak": 3
    },
+   "mjmirza/app-store-compliance": {
+    "best_rank": 12,
+    "days": 1,
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "streak": 1
+   },
    "mksglu/context-mode": {
     "best_rank": 3,
     "days": 6,
@@ -1095,16 +1123,23 @@
    },
    "mvanhorn/last30days-skill": {
     "best_rank": 2,
-    "days": 3,
+    "days": 4,
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-19",
-    "streak": 3
+    "last_seen": "2026-11-20",
+    "streak": 4
    },
    "n8n-io/n8n": {
     "best_rank": 18,
     "days": 1,
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-19",
+    "streak": 1
+   },
+   "nginx/nginx": {
+    "best_rank": 7,
+    "days": 1,
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
     "streak": 1
    },
    "nightly-labs/openbot": {
@@ -1144,10 +1179,10 @@
    },
    "obra/superpowers": {
     "best_rank": 2,
-    "days": 9,
+    "days": 10,
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-19",
-    "streak": 2
+    "last_seen": "2026-11-20",
+    "streak": 3
    },
    "open-webui/open-webui": {
     "best_rank": 5,
@@ -1171,11 +1206,11 @@
     "streak": 1
    },
    "openvinotoolkit/openvino": {
-    "best_rank": 14,
-    "days": 1,
+    "best_rank": 8,
+    "days": 2,
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-19",
-    "streak": 1
+    "last_seen": "2026-11-20",
+    "streak": 2
    },
    "p-e-w/heretic": {
     "best_rank": 6,
@@ -1415,6 +1450,13 @@
     "last_seen": "2026-11-05",
     "streak": 7
    },
+   "toeverything/AFFiNE": {
+    "best_rank": 14,
+    "days": 1,
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "streak": 1
+   },
    "togg53192-cmd/jailbreaks": {
     "best_rank": 10,
     "days": 5,
@@ -1540,6 +1582,13 @@
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-08",
     "streak": 2
+   },
+   "zhouxiaoka/autoclip": {
+    "best_rank": 16,
+    "days": 1,
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "streak": 1
    }
   },
   "go": {
