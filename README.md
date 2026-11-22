@@ -1,4 +1,4 @@
-# 🔭 GitHub Trending Radar — 2026-11-21
+# 🔭 GitHub Trending Radar — 2026-11-22
 
 16 trending · 12 AI-related · 0 new today
 
@@ -10,44 +10,53 @@ _None today._
 
 | Repo | Language | ⭐ Today / Total | Why | Description |
 |---|---|---|---|---|
-| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +869 / 2,716 | +32% in a day | Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard… |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,622 / 14,211 | +11% in a day | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
+| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +720 / 3,388 | +21% in a day | Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard… |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,803 / 16,018 | +11% in a day | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
 
 ## 🤖 AI Spotlight
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,622 / 14,211 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +890 / 322,819 | An agentic skills framework & software development methodology that works. |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +773 / 61,363 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +847 / 67,675 | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
-| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +1,241 / 205,246 | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data… |
-| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | +217 / 11,783 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
-| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +636 / 69,267 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Q… |
-| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +681 / 71,431 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… |
-| 11 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +315 / 11,021 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows… |
-| 12 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +869 / 2,716 | Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard… |
-| 13 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Python | +466 / 13,593 | The open-source agent for CI/CD reliability. |
-| 16 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +979 / 12,162 | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels… |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,803 / 16,018 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +883 / 323,708 | An agentic skills framework & software development methodology that works. |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +769 / 62,066 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +488 / 68,138 | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
+| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +1,006 / 206,168 | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data… |
+| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | +200 / 11,928 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +583 / 69,789 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Q… |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +560 / 71,988 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… |
+| 11 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +326 / 11,412 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows… |
+| 12 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +720 / 3,388 | Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard… |
+| 13 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Python | +450 / 13,982 | The open-source agent for CI/CD reliability. |
+| 16 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +683 / 12,835 | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels… |
 
 ## 💎 Non-AI Gems
 
 | # | Repo | Language | ⭐ Today / Total | Description |
 |---|---|---|---|---|
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +299 / 17,837 | Cursor plugin specification and official plugins |
-| 7 | [nginx/nginx](https://github.com/nginx/nginx) | C | +246 / 32,559 | The official NGINX Open Source repository. |
-| 14 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +676 / 75,784 | There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain\]) is a next-gen knowled… |
-| 15 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Python | +1,082 / 13,677 | The only downloader you need. 下载器的集大成者。 |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +260 / 18,099 | Cursor plugin specification and official plugins |
+| 7 | [nginx/nginx](https://github.com/nginx/nginx) | C | +189 / 32,726 | The official NGINX Open Source repository. |
+| 14 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +574 / 76,283 | There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain\]) is a next-gen knowled… |
+| 15 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Python | +779 / 14,428 | The only downloader you need. 下载器的集大成者。 |
 
 ## 📌 On a Streak
 
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 6 days in a row (6 days total, best rank #3)
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — 5 days in a row (5 days total, best rank #2)
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — 4 days in a row (5 days total, best rank #1)
-- [obra/superpowers](https://github.com/obra/superpowers) — 4 days in a row (11 days total, best rank #2)
-- [cursor/plugins](https://github.com/cursor/plugins) — 4 days in a row (6 days total, best rank #2)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — 3 days in a row (8 days total, best rank #3)
-- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) — 3 days in a row (3 days total, best rank #8)
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 7 days in a row (7 days total, best rank #3)
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — 6 days in a row (6 days total, best rank #2)
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — 5 days in a row (6 days total, best rank #1)
+- [obra/superpowers](https://github.com/obra/superpowers) — 5 days in a row (12 days total, best rank #2)
+- [cursor/plugins](https://github.com/cursor/plugins) — 5 days in a row (7 days total, best rank #2)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — 4 days in a row (9 days total, best rank #3)
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) — 4 days in a row (4 days total, best rank #8)
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) — 3 days in a row (4 days total, best rank #4)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — 3 days in a row (3 days total, best rank #6)
+- [nginx/nginx](https://github.com/nginx/nginx) — 3 days in a row (3 days total, best rank #7)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 3 days in a row (11 days total, best rank #2)
+- [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) — 3 days in a row (3 days total, best rank #12)
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — 3 days in a row (3 days total, best rank #13)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) — 3 days in a row (3 days total, best rank #14)
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) — 3 days in a row (3 days total, best rank #15)
+- [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) — 3 days in a row (3 days total, best rank #16)
 
 ---
 
